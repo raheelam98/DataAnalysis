@@ -11,3 +11,7 @@ Default value of step is 1
 all numeric data will be written if step = 1
 
 Set {} -> don’t has indexing
+
+**continue :** ignore the value
+
+**pass :** 
