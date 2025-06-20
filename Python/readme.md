@@ -58,11 +58,11 @@
   - Nested Loop
 
 -  While Loop
-  - Syntax of While Loop
-  - Conditions in While Loop
-  - Break Statement
-  - Continue Statement
-  - Nested Loops
+   - Syntax of While Loop
+   - Conditions in While Loop
+   - Break Statement
+   - Continue Statement
+   - Nested Loops
 
 #### Recommended Reading
 
@@ -95,11 +95,12 @@
 
 #### Recommended Reading
 
-[Functions in Python – Simplilearn](https://www.simplilearn.com/tutorials/python-tutorial/python-functions)
+[try-except-else-finally in Python – GeeksForGeeks](https://www.geeksforgeeks.org/python/try-except-else-and-finally-in-python/)
 
-[User-Defined Functions – Programiz](https://www.programiz.com/python-programming/function)
+[Python Functions – Simplilearn](https://www.simplilearn.com/tutorials/python-tutorial/python-functions)
+
+[User-Defined Functions in Python – Programiz](https://www.programiz.com/python-programming/function)
 
 [Lambda Functions – W3Schools](https://www.w3schools.com/python/python_lambda.asp)
 
-[try-except-else-finally – GeeksForGeeks](https://www.geeksforgeeks.org/python/try-except-else-and-finally-in-python/)
 
