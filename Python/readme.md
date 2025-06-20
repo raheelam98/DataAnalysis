@@ -1,6 +1,6 @@
 ## Python 
 
-### Session 01
+### Session 01 - (Variables, Operators, and Data Types)
 
 * Python variables
 * Introduction to python operators: arithmetic, comparison, logical and assignment
