@@ -16,7 +16,7 @@
 [Python Variables, Constants, and Literals – Programiz](https://www.programiz.com/python-programming/variables-constants-literals)
   
 
-### Session 02
+### Session 02 - (Sequence Data Types - string, List, Tuples)
 
 - Built-in data types in Python
 - Sequence types: lists, tuples, strings, ranges
