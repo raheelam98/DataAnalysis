@@ -48,7 +48,7 @@
 
 [Conditional Statements in Python – WsCube Tech](https://www.wscubetech.com/resources/python/conditional-statements)  
 
-### Session 04 - (Introduction to Loops: For Loop and While Loop)
+### Session 04 - (Loops: For Loop and While Loop)
 
 - For Loop
   - Using range()
@@ -73,7 +73,7 @@
 [For vs While Loop Efficiency – Medium](https://medium.com/@firdausauliafaza/exploring-speed-eficiency-a-comparative-analysis-of-for-and-while-loops-in-python-f3dab75d57a7)
 
 
-### Session 05
+### Session 05 - (Function and Exception Handling)
 
 #### Functions in Python
 
