@@ -4,13 +4,13 @@ https://www.linkedin.com/pulse/data-modeling-power-bi-introduction-chester-king/
 https://www.datacamp.com/tutorial/data-modeling-in-power-bi-tutorial
 
 
-# Session 1
+## Session 1
 
-## Power BI - DAX Essentials 
+### Power BI - DAX Essentials 
 
 This repository contains notes and reference material for learning DAX (Data Analysis Expressions) in Power BI.
 
-## Topics Covered
+#### Topics Covered
 
 - DAX Calculated Columns
 - DAX Measures
@@ -18,7 +18,7 @@ This repository contains notes and reference material for learning DAX (Data Ana
 - Quick Measures
 - DAX Syntax & Operators
 
-### Common DAX Function Categories
+#### Common DAX Function Categories
 
 - Basic Math & Statistics  
 - Count and Distinct Count  
@@ -30,7 +30,7 @@ This repository contains notes and reference material for learning DAX (Data Ana
 - ALL Function  
 - FILTER Function  
 
-## Reading Materials (Before Next Session)
+#### Reading Materials (Before Next Session)
 
 Please review the following resources:
 
