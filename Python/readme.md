@@ -1,19 +1,20 @@
 ## Python 
 
-### Recommended Reading
-
-[Getting Started with Python – Programiz](https://www.programiz.com/python-programming/getting-started)
-
-[Python Variables – W3Schools](https://www.w3schools.com/python/python_variables.asp)
-
-[Python Variables, Constants, and Literals – Programiz](https://www.programiz.com/python-programming/variables-constants-literals)
-
 ### Session 
 
 Python variables
 * Introduction to python operators: arithmetic, comparison, logical and assignment
 * Introduction to python datatypes: integers, floats, strings, booleans, lists, tuples, dictionaries and sets
 * Understanding the type()function
+
+#### Recommended Reading
+
+[Getting Started with Python – Programiz](https://www.programiz.com/python-programming/getting-started)
+
+[Python Variables – W3Schools](https://www.w3schools.com/python/python_variables.asp)
+
+[Python Variables, Constants, and Literals – Programiz](https://www.programiz.com/python-programming/variables-constants-literals)
+  
 
 ### Session
 
