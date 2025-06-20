@@ -4,13 +4,13 @@ https://www.linkedin.com/pulse/data-modeling-power-bi-introduction-chester-king/
 https://www.datacamp.com/tutorial/data-modeling-in-power-bi-tutorial
 
 
-## Session 01 - (DAX)
+### Session 01 - (DAX)
 
-### Power BI - DAX Essentials 
+#### Power BI - DAX Essentials 
 
 This repository contains notes and reference material for learning DAX (Data Analysis Expressions) in Power BI.
 
-#### Topics Covered
+##### Topics Covered
 
 - DAX Calculated Columns
 - DAX Measures
@@ -18,7 +18,7 @@ This repository contains notes and reference material for learning DAX (Data Ana
 - Quick Measures
 - DAX Syntax & Operators
 
-#### Common DAX Function Categories
+##### Common DAX Function Categories
 
 - Basic Math & Statistics  
 - Count and Distinct Count  
@@ -30,7 +30,7 @@ This repository contains notes and reference material for learning DAX (Data Ana
 - ALL Function  
 - FILTER Function  
 
-#### Reading Materials (Before Next Session)
+##### Reading Materials (Before Next Session)
 
 [Learn DAX Basics - Microsoft Docs](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-quickstart-learn-dax-basics)
   
@@ -38,13 +38,13 @@ This repository contains notes and reference material for learning DAX (Data Ana
 
 [DAX Guide - Function Reference](https://dax.guide/)
 
-## Session 02 (Data Visualization)
+### Session 02 (Data Visualization)
 
-### Power BI - Data Visualization & Reporting
+#### Power BI - Data Visualization & Reporting
 
 This repository contains learning notes and resources for building effective reports and dashboards in Power BI.
 
-#### Explore Different Types of Visualizations
+##### Explore Different Types of Visualizations
 
 - Time Series Visuals: Line Plots
 - Comparison Visuals: Bar and Column Charts
@@ -54,7 +54,7 @@ This repository contains learning notes and resources for building effective rep
 - Cards
 - Narratives and Q&A Visuals
 
-#### Visual Enhancements and Features
+##### Visual Enhancements and Features
 
 - Visual Formatting
 - Adding Interactivity with Slicers and Buttons
@@ -62,19 +62,19 @@ This repository contains learning notes and resources for building effective rep
 - Pagination in Reports
 - Publishing Reports
 
-#### Reading Materials (Before Next Session)
+##### Reading Materials (Before Next Session)
 
 [5 Data Visualization Best Practices – GoodData](https://www.gooddata.com/blog/5-data-visualization-best-practices/)  
 
 [Power BI Data Visualization Guide – PixelPlex](https://pixelplex.io/blog/power-bi-data-visualization/)
 
-## Case Study Session
+### Case Study Session
 
-### Power BI Case Studies & Sample Reports
+#### Power BI Case Studies & Sample Reports
 
 This repository includes a curated list of articles and sample projects to help you explore real-world use cases and improve your Power BI skills through practical examples.
 
-#### Articles and Resources
+##### Articles and Resources
 
 [Sample Retail Analysis Report – Microsoft Docs](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-retail-analysis)
 
@@ -86,8 +86,9 @@ This repository includes a curated list of articles and sample projects to help 
 
 [Power BI Projects and Practice Ideas – ProjectPro](https://www.projectpro.io/article/power-bi-microsoft-projects-examples-and-ideas-for-practice/533)
 
+Use these resources to explore report layouts, DAX usage, visuals, and storytelling techniques applied in real-world Power BI projects.
+
 ---
 
-Use these resources to explore report layouts, DAX usage, visuals, and storytelling techniques applied in real-world Power BI projects.
 
 
