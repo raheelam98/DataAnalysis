@@ -1,11 +1,5 @@
-**Power BI** is a business analytics tool by Microsoft that helps you visualize data and share insights across your organization. It connects to various data sources, transforms raw data into interactive dashboards, and supports real-time decision-making.
+**Power BI** 
 
-You can use Power BI to:
+https://www.linkedin.com/pulse/data-modeling-power-bi-introduction-chester-king/
+https://www.datacamp.com/tutorial/data-modeling-in-power-bi-tutorial
 
-Create reports with charts, maps, and KPIs
-
-Analyze trends using filters and slicers
-
-Share dashboards on the web or mobile
-
-It’s widely used for data analysis, reporting, and performance monitoring.
