@@ -32,12 +32,12 @@ Python variables
 
 ### Session
 
-Sets
-Dictionary
-Conditional Statements
-o The if Statement
-o The elif Statement
-o The else Statement
+- Sets
+- Dictionary
+- Conditional Statements
+  - The if Statement
+  - The elif Statement
+  - The else Statement
 
 #### Recommended Reading
 
@@ -47,4 +47,58 @@ o The else Statement
 
 [Conditional Statements in Python – WsCube Tech](https://www.wscubetech.com/resources/python/conditional-statements)  
 
+### Session
+
+- For Loop
+  - Using range()
+  - Iterating Over Lists
+  - Iterating Over Strings
+  - Break and Continue Statement
+  - Nested Loop
+
+-While Loop
+  - Syntax of While Loop
+  - Conditions in While Loop
+  - Break Statement
+  - Continue Statement
+  - Nested Loops
+
+#### Recommended Reading
+
+[Python Loops – Simplilearn](https://www.simplilearn.com/tutorials/python-tutorial/python-loops)  
+
+[Loops in Python – GeeksForGeeks](https://www.geeksforgeeks.org/python/loops-in-python/)  
+
+[For vs While Loop Efficiency – Medium](https://medium.com/@firdausauliafaza/exploring-speed-eficiency-a-comparative-analysis-of-for-and-while-loops-in-python-f3dab75d57a7)
+
+
+### Session
+
+#### Functions in Python
+
+- Introduction to Functions
+- Defining and Calling User-Defined Functions
+- Parameters and Arguments
+- Return Statement and Function Output
+- Variable Scope and Lifetime
+- Function Documentation and Code Readability
+
+#### Exception Handling in Python
+
+- Errors, Exceptions, and Exception Hierarchy
+- Handling Exceptions Using try-except Blocks
+- Handling Specific Exceptions
+- Handling Multiple Exceptions
+- Using else Clause with try-except Blocks
+- Using finally Clause for Cleanup Actions
+
+#### Recommended Reading
+
+[Functions in Python – Simplilearn](https://www.simplilearn.com/tutorials/python-tutorial/python-functions)
+
+[User-Defined Functions – Programiz](https://www.programiz.com/python-programming/function)
+
+[Lambda Functions – W3Schools](https://www.w3schools.com/python/python_lambda.asp)
+
+[try-except-else-finally – GeeksForGeeks](https://www.geeksforgeeks.org/python/try-except-else-and-finally-in-python/)
 
