@@ -1,4 +1,4 @@
-**Power BI** 
+## Power BI
 
 ### Power BI - Data Modeling Resources
 
