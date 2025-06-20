@@ -31,7 +31,7 @@
 
 [Understanding Python Sequences – Real Python](https://realpython.com/python-sequences/)
 
-### Session 03
+### Session 03 - (Data Types: Sets, Dictionaries, and Conditional Statements)
 
 - Sets
 - Dictionary
