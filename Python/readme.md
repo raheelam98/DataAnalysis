@@ -48,7 +48,7 @@
 
 [Conditional Statements in Python – WsCube Tech](https://www.wscubetech.com/resources/python/conditional-statements)  
 
-### Session 04
+### Session 04 - (Introduction to Loops: For Loop and While Loop)
 
 - For Loop
   - Using range()
@@ -57,7 +57,7 @@
   - Break and Continue Statement
   - Nested Loop
 
--While Loop
+-  While Loop
   - Syntax of While Loop
   - Conditions in While Loop
   - Break Statement
