@@ -2,7 +2,7 @@
 
 ### Session 01
 
-Python variables
+* Python variables
 * Introduction to python operators: arithmetic, comparison, logical and assignment
 * Introduction to python datatypes: integers, floats, strings, booleans, lists, tuples, dictionaries and sets
 * Understanding the type()function
