@@ -1,6 +1,6 @@
 ## Python 
 
-### Session 
+### Session 01
 
 Python variables
 * Introduction to python operators: arithmetic, comparison, logical and assignment
@@ -16,7 +16,7 @@ Python variables
 [Python Variables, Constants, and Literals – Programiz](https://www.programiz.com/python-programming/variables-constants-literals)
   
 
-### Session
+### Session 02
 
 - Built-in data types in Python
 - Sequence types: lists, tuples, strings, ranges
@@ -31,7 +31,7 @@ Python variables
 
 [Understanding Python Sequences – Real Python](https://realpython.com/python-sequences/)
 
-### Session
+### Session 03
 
 - Sets
 - Dictionary
@@ -48,7 +48,7 @@ Python variables
 
 [Conditional Statements in Python – WsCube Tech](https://www.wscubetech.com/resources/python/conditional-statements)  
 
-### Session
+### Session 04
 
 - For Loop
   - Using range()
@@ -73,7 +73,7 @@ Python variables
 [For vs While Loop Efficiency – Medium](https://medium.com/@firdausauliafaza/exploring-speed-eficiency-a-comparative-analysis-of-for-and-while-loops-in-python-f3dab75d57a7)
 
 
-### Session
+### Session 05
 
 #### Functions in Python
 
