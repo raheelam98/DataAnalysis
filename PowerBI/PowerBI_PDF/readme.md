@@ -4,7 +4,7 @@ https://www.linkedin.com/pulse/data-modeling-power-bi-introduction-chester-king/
 https://www.datacamp.com/tutorial/data-modeling-in-power-bi-tutorial
 
 
-### Session 01 - (DAX)
+### Session - (DAX)
 
 #### Power BI - DAX Essentials 
 
@@ -38,7 +38,7 @@ This repository contains notes and reference material for learning DAX (Data Ana
 
 [DAX Guide - Function Reference](https://dax.guide/)
 
-### Session 02 (Data Visualization)
+### Session (Data Visualization)
 
 #### Power BI - Data Visualization & Reporting
 
