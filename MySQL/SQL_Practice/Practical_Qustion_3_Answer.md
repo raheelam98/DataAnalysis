@@ -1,5 +1,6 @@
--- SQL Practice Assignment – Full Answer Sheet
--- Total Points: 12
+### SQL Practice Assignment – Full Answer Sheet
+
+**Student System**
 
 ```sql
 
