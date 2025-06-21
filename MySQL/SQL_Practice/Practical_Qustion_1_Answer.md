@@ -1,4 +1,6 @@
-## World table - SQL Practice Assignment 1
+### World Table 
+
+**SQL Practice Assignment 1**
 
 ```sql
 
