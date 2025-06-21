@@ -55,6 +55,10 @@ Understand core relational database concepts like tables, relationships, normali
 
 ##### Reading Materials 
 
+[W3Schools – SQL WHERE Clause](https://www.w3schools.com/sql/sql_where.asp)  
+
+[DataCamp – SQL DML Commands](https://www.datacamp.com/tutorial/sql-dml-commands-mastering-data-manipulation-in-sql)
+
 ### Session - ()
 
 
