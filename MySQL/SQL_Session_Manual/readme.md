@@ -59,15 +59,89 @@ Understand core relational database concepts like tables, relationships, normali
 [DataCamp – SQL DML Commands](https://www.datacamp.com/tutorial/sql-dml-commands-mastering-data-manipulation-in-sql)
 
 
-### Session - ()
+### Session 03 - (SQL Functions and Advanced Querying )
+
+- SQL DDL Statements  
+- SQL DML Statements  
+- SQL TCL Statements  
+
+- **SQL Functions**
+  - Aggregate Functions  
+  - String Functions  
+  - Date Functions  
+  - Mathematical Functions  
+
+- **Advanced SQL Clauses**
+  - DISTINCT  
+  - GROUP BY  
+  - HAVING  
+
+- CASE statements
+
+##### Reading Materials 
+
+### Session 03 - (SQL Functions and Advanced Querying)
+
+- SQL TCL Statements  
+
+- **SQL Functions**
+  - Aggregate Functions  
+  - Date Functions  
+  - Mathematical Functions  
+
+- **Advanced SQL Clauses**
+  - DISTINCT  
+  - GROUP BY  
+  - HAVING  
+
+- CASE statements
+
 
 
 ##### Reading Materials 
 
-### Session - ()
+### Session 04 - (Analysis, Joins and Data Relationships in SQL )
+
+- **Advanced SQL Clauses**
+  - GROUP BY  
+  - HAVING  
+
+- **CASE Statements**
+  - How to use CASE in queries  
+  - How to use CASE inside aggregate functions  
+  - How to use CASE in UPDATE statements  
+
+- **ERDs & Table Relationships**
+  - Inner Join  
+  - Left Join  
+  - Right Join  
+  - Cross Join  
+  - Full Outer Join  
+  - Self Join
 
 
 ##### Reading Materials 
+
+
+### Session 05 - (Subqueries and CTEs for Complex Data Retrieval )
+
+- Joins  
+
+- **Subqueries**
+  - Understand the difference between subqueries and joins  
+  - Single value subquery  
+  - Multi-row subquery  
+  - Multi-row and multi-column subquery  
+  - Correlated subqueries  
+
+- **Common Table Expressions (CTEs)**
+  - Show them how to make CTEs  
+  - Comparing subqueries and CTEs  
+  - How to use CTEs and joins to update a table
+
+
+##### Reading Materials 
+
 
 ### Session - ()
 
