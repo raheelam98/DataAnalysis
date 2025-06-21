@@ -20,6 +20,15 @@
 
 ##### Reading Materials 
 
+[GeeksforGeeks – SQL SELECT Query](https://www.geeksforgeeks.org/sql-select-query/)  
+Learn how to retrieve data from tables using the `SELECT` statement. This guide covers syntax, examples, and usage of `WHERE`, `DISTINCT`, and more.
+
+[Simplilearn – What is SQL?](https://www.simplilearn.com/tutorials/sql-tutorial/what-is-sql)  
+A beginner-friendly overview of SQL, including its purpose, command types, and how it interacts with databases.
+
+[IBM – What is a Relational Database?](https://www.ibm.com/think/topics/relational-databases)  
+Understand core relational database concepts like tables, relationships, normalization, and how SQL is used to manage structured data.
+
 ### Session - ()
 
 
