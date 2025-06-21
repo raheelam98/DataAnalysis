@@ -1,5 +1,5 @@
 ## MySQL
-
+ 
 ### Session 01 - (Introduction to Databases and Basic SQL Operations)
 
 - What are Databases?
