@@ -1,6 +1,6 @@
 ###  Cinema System 
 
-**SQL Practice Assignment 2**
+**SQL Practice Assignment 2 - Answers**
 
  Total Points: 10
 
