@@ -25,7 +25,7 @@ Query 2: SELECT * FROM customers WHERE age > 18 AND country = 'USA';
 
 ---
 
-## SQL Quiz
+### SQL Practice Quiz Answer
 
 #### 1. Suppose we have the string `"HelloWorld"` and want to extract `"World"` using `SUBSTRING`. Which `SUBSTRING` function would you use?
 SUBSTRING('HelloWorld', 6, 5)
