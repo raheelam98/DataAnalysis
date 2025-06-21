@@ -1,4 +1,4 @@
-# Power BI Quiz  
+# Power BI Quiz   
 
 #### 1. What's the most powerful feature of Power BI?
 - [ ] Collaboration and sharing  
