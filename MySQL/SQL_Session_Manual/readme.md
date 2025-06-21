@@ -1,5 +1,13 @@
 ## MySQL
 
+SQL Data Manipulation and Cleaning
+
+[DataCamp – SQL DML Commands: Mastering Data Manipulation](https://www.datacamp.com/tutorial/sql-dml-commands-mastering-data-manipulation-in-sql)  
+Learn how to use SQL DML commands such as INSERT, UPDATE, DELETE, and SELECT to manipulate and interact with database records effectively.
+
+[Acho – The Ultimate Guide to Data Cleaning in SQL](https://acho.io/blogs/the-ultimate-guide-to-data-cleaning-in-sql)  
+A practical guide on cleaning messy data in SQL using techniques like NULL handling, data type corrections, trimming, and standardization.
+
 ### Session 01 - (Introduction to Databases and Basic SQL Operations)
 
 - What are Databases?  
@@ -17,7 +25,7 @@
   - LIMIT  
   - Aliases (AS keyword)
 
-##### Reading Materials 
+##### Reading Materials - SQL Fundamentals and Relational Databases
 
 [GeeksforGeeks – SQL SELECT Query](https://www.geeksforgeeks.org/sql-select-query/)  
 Learn how to retrieve data from tables using the `SELECT` statement. This guide covers syntax, examples, and usage of `WHERE`, `DISTINCT`, and more.
@@ -52,11 +60,13 @@ Understand core relational database concepts like tables, relationships, normali
   - Commit  
   - Rollback
 
-##### Reading Materials 
+##### Reading Materials - SQL Fundamentals
 
 [W3Schools – SQL WHERE Clause](https://www.w3schools.com/sql/sql_where.asp)  
+A beginner-friendly guide to filtering records in SQL using the WHERE clause, with examples and syntax explanations.
 
-[DataCamp – SQL DML Commands](https://www.datacamp.com/tutorial/sql-dml-commands-mastering-data-manipulation-in-sql)
+[DataCamp – SQL DML Commands](https://www.datacamp.com/tutorial/sql-dml-commands-mastering-data-manipulation-in-sql)  
+An in-depth tutorial on SQL Data Manipulation Language (DML) covering SELECT, INSERT, UPDATE, and DELETE operations.
 
 
 ### Session 03 - (SQL Functions and Advanced Querying )
@@ -78,33 +88,25 @@ Understand core relational database concepts like tables, relationships, normali
 
 - CASE statements
 
-##### Reading Materials 
+##### Reading Materials - SQL Topics and Use Cases
 
-### Session 03 - (SQL Functions and Advanced Querying)
+[DataCamp – SQL DML Commands](https://www.datacamp.com/tutorial/sql-dml-commands-mastering-data-manipulation-in-sql)  
+A tutorial covering SQL Data Manipulation Language (DML) including INSERT, UPDATE, DELETE, and SELECT commands with examples.
 
-- SQL TCL Statements  
+[Acho – The Ultimate Guide to Data Cleaning in SQL](https://acho.io/blogs/the-ultimate-guide-to-data-cleaning-in-sql)  
+A comprehensive guide on cleaning and preparing data in SQL using techniques like handling NULLs, formatting, and removing duplicates.
 
-- **SQL Functions**
-  - Aggregate Functions  
-  - Date Functions  
-  - Mathematical Functions  
+[The Clever Programmer – Product Sales Analysis Using SQL](https://thecleverprogrammer.com/2023/06/14/product-sales-analysis-using-sql/)  
+A hands-on walkthrough of analyzing product sales data using SQL queries, with practical examples and business questions.
 
-- **Advanced SQL Clauses**
-  - DISTINCT  
-  - GROUP BY  
-  - HAVING  
+[Programiz – SQL GROUP BY](https://www.programiz.com/sql/group-by)  
+Learn how to group and summarize data in SQL using the GROUP BY clause, with clear examples and step-by-step explanations.
 
-- CASE statements
+[Mode – SQL CASE Statement](https://mode.com/sql-tutorial/sql-case)  
+An intuitive tutorial on how to use the CASE statement in SQL for conditional logic inside queries.
 
-
-
-##### Reading Materials 
 
 ### Session 04 - (Analysis, Joins and Data Relationships in SQL )
-
-- **Advanced SQL Clauses**
-  - GROUP BY  
-  - HAVING  
 
 - **CASE Statements**
   - How to use CASE in queries  
@@ -120,7 +122,16 @@ Understand core relational database concepts like tables, relationships, normali
   - Self Join
 
 
-##### Reading Materials 
+##### Reading Materials - SQL Joins
+
+[Programiz – SQL JOIN](https://www.programiz.com/sql/join)  
+A clear explanation of SQL JOINs with examples, covering how to combine rows from two or more tables based on related columns.
+
+[W3Schools – SQL JOIN](https://www.w3schools.com/sql/sql_join.asp)  
+An easy-to-follow tutorial on different types of JOINs in SQL including INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL OUTER JOIN.
+
+[GeeksforGeeks – SQL JOIN (Set 1)](https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/)  
+Detailed coverage of INNER, LEFT, RIGHT, and FULL joins with syntax and visual diagrams to enhance understanding.
 
 
 ### Session 05 - (Subqueries and CTEs for Complex Data Retrieval )
@@ -140,7 +151,16 @@ Understand core relational database concepts like tables, relationships, normali
   - How to use CTEs and joins to update a table
 
 
-##### Reading Materials 
+##### Reading Materials - SQL Joins and Subqueries
+
+[Programiz – SQL JOIN](https://www.programiz.com/sql/join)  
+A clear explanation of SQL JOINs with examples, covering how to combine rows from multiple tables using related columns.
+
+[Programiz – SQL Subquery](https://www.programiz.com/sql/subquery)  
+Learn how subqueries work in SQL with examples of single-row, multi-row, and correlated subqueries.
+
+[W3Resource – Understanding SQL Subqueries](https://www.w3resource.com/sql/subqueries/understanding-sql-subqueries.php)  
+An in-depth guide to understanding subqueries, including where and how they are used in different SQL statements.
 
 
 ### Session 06 - (CTEs and Window Functions for Advanced Analytics in SQL)
@@ -153,5 +173,17 @@ Understand core relational database concepts like tables, relationships, normali
   - Combining window functions and CTEs
 
 
-##### Reading Materials 
+##### Reading Materials - SQL CTEs and Subqueries
+
+[LearnSQL – What is a Common Table Expression?](https://learnsql.com/blog/what-is-common-table-expression/)  
+An introductory guide explaining what CTEs are, how they work, and why they are useful for writing readable SQL queries.
+
+[GeeksforGeeks – CTE in SQL](https://www.geeksforgeeks.org/cte-in-sql/)  
+A practical explanation of Common Table Expressions (CTEs) with syntax and examples, including recursive CTEs.
+
+[W3Resource – Understanding SQL Subqueries](https://www.w3resource.com/sql/subqueries/understanding-sql-subqueries.php)  
+An in-depth overview of SQL subqueries with detailed examples, use cases, and classifications.
+
+[Programiz – SQL Subquery](https://www.programiz.com/sql/subquery)  
+A beginner-friendly guide to subqueries in SQL, covering single-row, multi-row, and correlated subqueries.
 
