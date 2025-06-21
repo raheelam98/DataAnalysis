@@ -1,4 +1,4 @@
-### SQL Practice Assignment: Cinema Table
+###  Cinema System - SQL Practice Assignment 2
  Total Points: 10
 
 ```sql
