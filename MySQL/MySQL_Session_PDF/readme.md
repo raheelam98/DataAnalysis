@@ -9,13 +9,13 @@
  - Terminologies of RDBMS, Data types, Constraints, Data Relationships
 
  -  Mysql Work bench
-  - Exploring the MySQL interface
-  - Create Database, tables, Column 
-  - SELECT Statement (basic querying)
-  - Inserting data into tables
-  - ORDER BY (sorting results)
-  - LIMIT 
-  - Aliases (AS keyword)
+   - Exploring the MySQL interface
+   - Create Database, tables, Column 
+   - SELECT Statement (basic querying)
+   - Inserting data into tables
+   - ORDER BY (sorting results)
+   - LIMIT 
+   - Aliases (AS keyword)
 
 
 ##### Reading Materials 
