@@ -1,5 +1,5 @@
 ## Power BI
-
+ 
 ### Power BI - Data Modeling Resources
 
 Articles cover key concepts - Power BI models.
