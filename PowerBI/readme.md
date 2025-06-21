@@ -48,7 +48,7 @@ This repository contains notes and reference material for learning DAX (Data Ana
 - CALCULATE Function  
 - ALL Function  
 - FILTER Function  
-
+  
 ##### Reading Materials 
 
 [Learn DAX Basics - Microsoft Docs](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-quickstart-learn-dax-basics)
