@@ -143,7 +143,14 @@ Understand core relational database concepts like tables, relationships, normali
 ##### Reading Materials 
 
 
-### Session - ()
+### Session 06 - (CTEs and Window Functions for Advanced Analytics in SQL)
+
+- **SQL Window Functions**
+  - Understanding the ORDER BY and PARTITION BY clauses inside the OVER() clause  
+  - LEAD() and LAG()  
+  - RANK() and DENSE_RANK()  
+  - Explore other window functions from the MySQL window functions list  
+  - Combining window functions and CTEs
 
 
 ##### Reading Materials 
