@@ -1,6 +1,6 @@
 ### Student System
 
-**SQL Practice Assignment 3**
+**SQL Practice Assignment 3 - Answers**
 
 ```sql
 
