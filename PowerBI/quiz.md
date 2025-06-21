@@ -1,4 +1,4 @@
-# Power BI Quiz
+# Power BI Quiz  
 
 #### 1. What's the most powerful feature of Power BI?
 - [ ] Collaboration and sharing  
@@ -27,15 +27,15 @@
 
 ### Power BI Quiz Answers
 
-### 1. What's the most powerful feature of Power BI?
+#### 1. What's the most powerful feature of Power BI?
 **Answer:** Data modeling and DAX formulas
 
-### 2. What's the most important aspect of data visualization?
+#### 2. What's the most important aspect of data visualization?
 **Answer:** Telling a story with data
 
-### 3. What's the purpose of CALCULATE in DAX?
+#### 3. What's the purpose of CALCULATE in DAX?
 **Answer:** To filter or modify the filter context for a calculation
 
-### 4. Which DAX function returns a distinct value in a column?
+#### 4. Which DAX function returns a distinct value in a column?
 **Answer:** DISTINCT()
 
