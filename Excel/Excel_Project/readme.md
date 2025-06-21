@@ -7,4 +7,4 @@ Excel module final project. A dataset and sample report have been attached along
 
 I have added the cleaned dataset for making your analysis easier. Just find duplicate rows in it and clean it.
 
-**Note :** For duplicates, select all table and then remove duplicates.
+**Note :** For duplicates, select all table and then remove duplicates.  
