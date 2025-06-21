@@ -3,7 +3,6 @@
 **Total Points:** 12  
 **Filename to Submit:** `Practice_Questions_Answers_3.sql`  
 **Deadline:** Submit via Google Classroom  
-**Instructor:** Sana Hussain  
 **Cohort:** DA Cohort 05 – Azure Track
 
 ---
