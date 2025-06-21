@@ -1,6 +1,6 @@
 ### World Table 
 
-**SQL Practice Assignment 1**
+**SQL Practice Assignment 1 - Answers**
 
 ```sql
 
