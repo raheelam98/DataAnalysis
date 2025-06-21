@@ -61,5 +61,43 @@ Understand core relational database concepts like tables, relationships, normali
 
 ### Session - ()
 
+- **Basic SQL Operations**
+  - Import data  
+  - SELECT Statement (basic querying)  
+  - WHERE Clause (filtering data)  
+  - IN, BETWEEN, LIKE  
+
+- **SQL DDL Statements (Data Definition Language)**
+  - Adding/dropping keys  
+  - Adding/dropping columns  
+  - Modifying columns (changing the datatype, adding constraints, setting defaults, etc.)  
+  - Truncate  
+
+- **SQL DML Statements (Data Manipulation Language)**
+  - Inserting records  
+  - Deleting records (with WHERE clause)  
+  - Updating records statically, dynamically, or conditionally (with WHERE clause)  
+
+- **SQL TCL Statements (Transaction Control Language)**
+  - Start transaction  
+  - Commit  
+  - Rollback
+✅ This format works perfectly in GitHub README.md files — clean, readable, and well-structured. Let me know if you'd like a "Practice Exercises" or "Resources" section added!
 
 ##### Reading Materials 
+
+### Session - ()
+
+
+##### Reading Materials 
+
+### Session - ()
+
+
+##### Reading Materials 
+
+### Session - ()
+
+
+##### Reading Materials 
+
