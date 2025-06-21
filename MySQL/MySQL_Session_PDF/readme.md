@@ -29,8 +29,29 @@ A beginner-friendly overview of SQL, including its purpose, command types, and h
 [IBM – What is a Relational Database?](https://www.ibm.com/think/topics/relational-databases)  
 Understand core relational database concepts like tables, relationships, normalization, and how SQL is used to manage structured data.
 
-### Session - ()
+### Session 02 - (Data Manipulation in SQL)
 
+- Basic SQL Operations
+   - Import Data  
+   - SELECT Statement (basic querying)  
+   - WHERE Clause (filtering data)  
+   - IN, BETWEEN, LIKE
+
+- SQL DDL Statements (Data Definition Language)
+    - Adding/dropping keys  
+    - Adding/dropping columns  
+    - Modifying columns (changing datatype, adding constraints, setting defaults)  
+    - Truncate
+
+- SQL DML Statements (Data Manipulation Language)
+     - Inserting records  
+     - Deleting records (with WHERE clause)  
+     - Updating records (statically, dynamically, or conditionally with WHERE)    
+
+- SQL TCL Statements (Transaction Control Language)
+     - Start transaction  
+     - Commit  
+     - Rollback      
 
 ##### Reading Materials 
 
