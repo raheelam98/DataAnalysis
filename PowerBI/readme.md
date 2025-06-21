@@ -2,11 +2,12 @@
 
 ### Power BI - Data Modeling Resources
 
+Articles cover key concepts - Power BI models.
+
 [Data Modeling in Power BI: An Introduction – Chester King (LinkedIn)](https://www.linkedin.com/pulse/data-modeling-power-bi-introduction-chester-king/)
 
 [Data Modeling in Power BI – DataCamp Tutorial](https://www.datacamp.com/tutorial/data-modeling-in-power-bi-tutorial)
 
-These articles cover key concepts such as star schema design, relationships, normalization vs denormalization, and best practices for building scalable Power BI models.
 
 ### Session - (DAX)
 
