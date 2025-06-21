@@ -8,6 +8,20 @@ Articles cover key concepts - Power BI models.
 
 [Data Modeling in Power BI – DataCamp Tutorial](https://www.datacamp.com/tutorial/data-modeling-in-power-bi-tutorial)
 
+### Session - (Power Query)
+
+- Power BI Overview 
+- Load the data from CSV, Excel, Folder, mysql database
+- Power Query Interface
+- Data Transformation in Power Query
+
+##### Reading Materials 
+
+[Power BI Query Overview – Microsoft Documentation](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-query-overview)
+
+[What is Power BI – Coursera](https://www.coursera.org/articles/what-is-power-bi)
+
+[Power BI Tutorial – Data Flair](https://data-flair.training/blogs/power-bi-tutorial/)
 
 ### Session - (DAX)
 
@@ -35,7 +49,7 @@ This repository contains notes and reference material for learning DAX (Data Ana
 - ALL Function  
 - FILTER Function  
 
-##### Reading Materials (Before Next Session)
+##### Reading Materials 
 
 [Learn DAX Basics - Microsoft Docs](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-quickstart-learn-dax-basics)
   
@@ -67,7 +81,7 @@ This repository contains learning notes and resources for building effective rep
 - Pagination in Reports
 - Publishing Reports
 
-##### Reading Materials (Before Next Session)
+##### Reading Materials 
 
 [5 Data Visualization Best Practices – GoodData](https://www.gooddata.com/blog/5-data-visualization-best-practices/)  
 
