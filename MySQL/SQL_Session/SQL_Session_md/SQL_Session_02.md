@@ -27,9 +27,9 @@
 10. Retrieve items with `item_id` = 1, 4, 6, 2, or 5.
 11. Retrieve customers named John, Sarah, or Robert using `IN`.
 12. Retrieve all items **not** in a specific list of item names.
-13. Retrieve customers whose first name **starts with** "A".
-14. Retrieve customers whose first name **ends with** "y".
-15. Retrieve customers whose first name **contains** "nr" or "oh".
+13. Retrieve customers whose first name  "A".
+14. Retrieve customers whose first name "y".
+15. Retrieve customers whose first name  "nr" or "oh".
 16. Retrieve all items where `item_type` is NOT "Accessories" using `<>`, `!=`, or `NOT`.
 17. Retrieve all items where `item_price` is NOT greater than 50.
 
