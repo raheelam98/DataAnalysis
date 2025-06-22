@@ -1,6 +1,11 @@
-# SQL Session 04 
+## SQL Session 04 
 
-DML & Transaction Control
+- SQL Functions
+- DML & Transaction Control
+- Mathematical Functions: ROUND(), CEIL(), FLOOR()
+- Date Functions: NOW(), DATE_ADD(), DATEDIFF()
+- AGGREGATE FUNCTIONS ( SUM, AVG, MAX, MIN,...)
+
 
 ### SQL Session 04 Questions 
 
