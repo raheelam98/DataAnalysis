@@ -11,8 +11,8 @@
 2. Add a column `street` of type `VARCHAR(3)` to the `customers` table.
 3. Rename column `street` to `street_number`.
 4. Drop the `street_number` column from the `customers` table.
-5. Add the column `street_number` again but at the **first** position.
-6. Move the `street_number` column to come **after** the `address` column.
+5. Add the column `street_number` again but at the first position.
+6. Move the `street_number` column to come after the `address` column.
 7. Add two new columns `street_name` and `city` after `street_number`.
 8. Change the datatype of `street_number` to `VARCHAR(5)`.
 
