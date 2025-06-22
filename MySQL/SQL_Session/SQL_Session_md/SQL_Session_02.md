@@ -1,4 +1,52 @@
-### SQL Session 02
+## SQL Session 02
+
+**Session 02 covered:** 
+
+`CREATE DATABASE`, `USE`, `CREATE TABLE`, `INSERT`, `SELECT`, `WHERE`, `IN`, `BETWEEN`, `LIKE`, `NOT`, `ORDER BY`, `LIMIT`, `ALIAS`.
+
+### SQL Session 02 Questions
+
+```sql
+# SQL Session 02 – Practice Questions
+
+### Database & Table Setup
+- Create a database named `Ecommerce`.
+- Create a table `Employees` with columns: `employee_id`, `first_name`, `last_name`, `department`, `salary`.
+- Insert single and multiple rows into the `Employees` table.
+
+### Data Retrieval
+1. Retrieve all data from the `employees` table.
+2. Retrieve all items in the `items` table where the `item_type` is "clothing".
+3. Retrieve item with `item_id = 5`.
+4. Retrieve all items in "clothing" and "shoes" categories.
+5. Retrieve all clothing items with price greater than 50.
+6. Retrieve all clothing and shoe items with price greater than 50.
+7. Retrieve customers with `customer_id` between 1 and 5.
+8. Retrieve items with price greater than or equal to 30.
+9. Retrieve items with price less than or equal to 30.
+10. Retrieve items with `item_id` = 1, 4, 6, 2, or 5.
+11. Retrieve customers named John, Sarah, or Robert using `IN`.
+12. Retrieve all items **not** in a specific list of item names.
+13. Retrieve customers whose first name **starts with** "A".
+14. Retrieve customers whose first name **ends with** "y".
+15. Retrieve customers whose first name **contains** "nr" or "oh".
+16. Retrieve all items where `item_type` is NOT "Accessories" using `<>`, `!=`, or `NOT`.
+17. Retrieve all items where `item_price` is NOT greater than 50.
+
+### Sorting & Limiting
+18. Order items by `item_price` (ascending).
+19. Order items by `item_price` (descending).
+20. Order items by `item_price` descending and `amount_in_stock` ascending.
+21. Show top 2 most expensive items.
+22. Show 2 least expensive items.
+
+### Alias
+23. Show `first_name`, `last_name`, and full name as a single column using `AS`.
+24. Rename a column header using `AS`.
+
+```
+---
+### SQL Session 02 Questions with Answers
 
 ```sql
 -- Create a database with name Ecommerce
