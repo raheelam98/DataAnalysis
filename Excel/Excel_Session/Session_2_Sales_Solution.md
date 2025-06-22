@@ -29,7 +29,7 @@
 - separate month   =MID(B3,FIND("_",B3)+1,1) e.g. 1
 - separate year    =RIGHT(B2,4)             e.g. 2023
 - month-year       =LEFT(B2,FIND("_",B2)-1) & "-" & RIGHT(B2,4)  e.g.   1_2023
-- month-year       =TEXT(DATE(RIGHT(B2,4),LEFT(B2,FIND("_",B2)-1),1),"mmmm-yyyy") January-2023
+- month-year check      =TEXT(DATE(RIGHT(B2,4),LEFT(B2,FIND("_",B2)-1),1),"mmm-yyyy") January-2023
 
 
 **`=COUNTIF(range, criteria) :`** count the number of cells in a range that meet a specific condition
