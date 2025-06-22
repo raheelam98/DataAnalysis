@@ -1,5 +1,5 @@
 ## Excel Session Solution
-
+  
 #### Excel Session - 02 Task (Sales 2nd Session)
 
 1. How many total transactions are in the dataset?
