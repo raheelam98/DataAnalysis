@@ -1,5 +1,28 @@
 ## SQL Session 05
 
+**SQL Clauses**
+- SELECT- to select columns from the table or columns made through functions
+- FROM - to select the table you will be using
+- WHERE - to filter records of the table
+- GROUP BY - to group records
+- HAVING - to filter groups (or other columns that cannot be accessed by the WHERE clause)
+- ORDER BY - to sort records
+- LIMIT - to limit the number of records returned by the query
+
+ **Functions and Logical Constructs** 
+ 
+- GROUP BY  
+- HAVING  
+- IF()  
+- CASE  
+- CASE with GROUP BY and Aggregates  
+- CASE inside Aggregate Functions  
+- UPDATE with CASE  
+- INNER JOIN  
+- JOIN with Aliases 
+
+---
+
 ### SQL Session 05 Questions
 
 ```sql
