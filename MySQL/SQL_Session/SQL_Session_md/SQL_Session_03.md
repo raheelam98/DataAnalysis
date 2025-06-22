@@ -53,7 +53,7 @@
 
 ---
 
-### SQL Session 0 Questions with Answers
+### SQL Session 03 Questions with Answers
 ```sql
 /*
 
