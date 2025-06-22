@@ -1,6 +1,6 @@
 ## Excel Session
 
-#### Excel Session - 01 
+#### Excel Session - 02 
 
 1. How many total transactions are in the dataset?
 2. How many orders were placed in March 2023?
@@ -11,7 +11,6 @@
 7. What is the Highest unit price of Coffee?
 8. What is the average price of Bakery Category products?
 
-#### Excel Session - 02
 
 #### Excel Session - 03
 
