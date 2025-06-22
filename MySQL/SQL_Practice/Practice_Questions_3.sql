@@ -65,10 +65,6 @@ INSERT INTO enrollments VALUES
 -- 6. List all distinct courses for enrollment.
 
 
-
-
-
-
 -- -------------------------------------------------------------------
 -- Date Functions
 -- -------------------------------------------------------------------
