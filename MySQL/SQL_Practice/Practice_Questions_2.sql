@@ -24,8 +24,6 @@ INSERT INTO Cinema (id, movie, description, rating) VALUES
 (4, 'Ice song', 'Fantacy', 8.6),
 (5, 'House card', 'Interesting', 9.1);
 
-
-
 -- ----------------------------------------
 -- Part A: Basic SQL Queries and Updates
 -- ----------------------------------------
@@ -34,27 +32,19 @@ INSERT INTO Cinema (id, movie, description, rating) VALUES
 --    Return the results ordered by rating in descending order.
 
 
-
 -- 2. Update the rating of the movie 'War' by increasing it by 0.5.
-
 
 
 -- 3. Replace the description 'great 3D' with 'Amazing 3D experience'.
 
 
-
 -- 4. Rename the column "movie" to "movie_title".
-
 
 
 -- 5. Add a new column called "simple_rating" with data type DOUBLE.
 
 
-
 -- 6. Manually update each row so that simple_rating = rating * 2.
-
-
-
 
 
 -- ----------------------------------------
@@ -71,8 +61,6 @@ ADD rating_twice DOUBLE GENERATED ALWAYS AS (rating * 2);
 SELECT * FROM Cinema;
 
 
-
-
 -- 2. Insert a new row with a manual value for simple_rating.
 --    Note: random value given for simple_rating is allowed because it's a regular column.
 --    The generated column rating_twice will auto-calculate the correct value.
@@ -82,8 +70,6 @@ VALUES (6, 'Inception', 'Mind-bending', 9.3, 20);
 
 
 SELECT * FROM Cinema;
-
-
 
 
 -- 3. Try to update rating_twice directly and observe the error.
@@ -97,7 +83,6 @@ WHERE id = 6;
 SELECT * FROM Cinema;
 
 
-
 -- 4. Update rating and simple_rating only.
 --    Observe how rating_twice is automatically updated.
 UPDATE Cinema
@@ -106,8 +91,6 @@ SET rating = 0.75,
 WHERE id = 6;
 
 SELECT * FROM Cinema;
-
-
 
 -- ----------------------------------------
 -- Part C: Reflection Questions (Max two lines answer)
