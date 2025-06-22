@@ -2,7 +2,7 @@
 
 #### Excel Session - 01 (Sales)
 
-#### Excel Session - 02 (Sales 2nd Session)
+#### Excel Session - 02 Task (Sales 2nd Session)
 
 1. How many total transactions are in the dataset?
 2. How many orders were placed in March 2023?
@@ -13,7 +13,7 @@
 7. What is the Highest unit price of Coffee?
 8. What is the average price of Bakery Category products?
 
-#### Excel Session - 03 (Sales 3rd Session)
+#### Excel Session - 03 Task (Sales 3rd Session)
 
 1. Bring "store_location" columns from the sheet "Stores" to the sheet "Transactions" using store_ID.
 2. Bring unit_price, product_category, product_type, product_detail columns from the sheet "Product" to the sheet "Transactions" using Product_ID.
@@ -38,7 +38,7 @@ Else, "Evening Shift"
 14. How many orders have been placed for product_id = 40 on Sunday?
 15. Which sales category (Premium, Standard) contributes most to total sales?
 
-#### Excel Session - 4-5 (Session 4-5 Sales Data TA)
+#### Excel Session - 4-5 Task (Session 4-5 Sales Data TA)
 
 1. How many orders are there? (total orders)
 2. How many product categories exist?
