@@ -1,5 +1,9 @@
 ## Excel
 
+
+### Session - 01
+ - Data Literacy, Lifecycle, and Understanding Data
+
 ### Session - 02 (Data Cleaning in Excel)
 
 - Text to Column and CONCAT
