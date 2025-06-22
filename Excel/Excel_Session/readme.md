@@ -13,7 +13,7 @@
 7. What is the Highest unit price of Coffee?
 8. What is the average price of Bakery Category products?
 
-#### Excel Session - 03
+#### Excel Session - 03 (Sales 3rd Session)
 
 1. Bring "store_location" columns from the sheet "Stores" to the sheet "Transactions" using store_ID.
 2. Bring unit_price, product_category, product_type, product_detail columns from the sheet "Product" to the sheet "Transactions" using Product_ID.
