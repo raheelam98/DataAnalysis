@@ -1,7 +1,9 @@
--- SQL Session 02
+### SQL Session 02
 
+```sql
 -- Create a database with name Ecommerce
 create database IF NOT exists Ecommerce;
+
 
 -- Use the database
 use ecommerce;
@@ -291,6 +293,6 @@ concat(first_name," ", last_name) as "Full name"
 -- order by
 -- limit
 -- alias
-
+```
 
 
