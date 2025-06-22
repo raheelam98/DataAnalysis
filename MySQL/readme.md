@@ -1,6 +1,6 @@
 ## MySQL
 
-# SQL Learning Resources
+### SQL Learning Resources
 
 ### Resources Used in the Session
 
