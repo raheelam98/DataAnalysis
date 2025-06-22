@@ -1,3 +1,3 @@
-## SQL Session sql 
+## SQL Session sql  
 
 SQL Lectures of class
