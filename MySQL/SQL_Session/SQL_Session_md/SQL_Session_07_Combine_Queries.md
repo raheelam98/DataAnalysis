@@ -1,4 +1,4 @@
-queries
+
 ## Combine Queries - SQL Session 07
 
 **Combine Result Query (UNION, INTERSECT, EXCEPT)**
