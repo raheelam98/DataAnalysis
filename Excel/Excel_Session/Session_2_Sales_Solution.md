@@ -47,19 +47,6 @@ store_locations column :-  `=UNIQUE(B:B)`    Peshawar.  Islamabad. Lahore  -- st
 
 ---
 
-**`=COUNTA(range) :`**  counts the number of non-empty cells  
-
-=COUNTA(value1, [value2], ...)  
-
-
-**`=COUNTIF(range, criteria) :`** count the number of cells in a range that meet a specific condition
-
-- **Find frequency** of a specific value in a dataset  
-- **Count matching names**, categories, or entries  (Count how many times a name appears)
-- **Filter data** based on conditions like `"greater than"`, `"equals"`, or `"contains"` (Count values greater than or less than a number)
-
----
-
 #### Excel Session - Sales.xlsx
 
 #### Transactions Sheet
@@ -87,6 +74,12 @@ store_locations column :-  `=UNIQUE(B:B)`    Peshawar.  Islamabad. Lahore  -- st
 - **stores total :**  `=COUNTA(UNIQUE(H:H))`
 - **transactions for store_id = 5 :**  `=COUNTIF(H:H,5)`
 - `=COUNTA(UNIQUE(H:H))`
+- **day of the week :**  ` TEXT(F2,"=TEXT(F2,"dddd")" ` (F-column) Date (10/1/2023) result = sunday
+- **shift - Morning/Evening :** ` =IF(AND(H2>=TIME(6,0,0),H2<=TIME(14,0,0)),"Morning shift","Evening shift") `  (H-column) transaction_time (7:06:11)  shift = Morining shift
+- **total_sales :**   ` M2*N2 `  (M-column) transaction_qty (2) , (N-column) unit_price (3), total_sales = 6
+- **sales_category - Premimum/Standard :**  ` =IF(R3>AVERAGE(R:R),"Premimum","Standard") ` (R-column) total_sales (6) , sales_category = Premimum
+- **weekend_order - week_order/weekend_order:** check ` =IF(OR(G2="Sunday",G2="Saturday"),"Weekend orders","Weekday order") `  (column-G) day of week (sunday)  weekend_order=*weekend_order
+  
 
 #### Product Sheet
 
@@ -95,7 +88,18 @@ store_locations column :-  `=UNIQUE(B:B)`    Peshawar.  Islamabad. Lahore  -- st
 - **Unique Product (from product_category column C ):** ` =UNIQUE(C:C) `
 - **total_unique_product_category :** ` =COUNTA(UNIQUE(C2:C76)) `
 
+---
 
+**`=COUNTA(range) :`**  counts the number of non-empty cells  
+
+=COUNTA(value1, [value2], ...)  
+
+
+**`=COUNTIF(range, criteria) :`** count the number of cells in a range that meet a specific condition
+
+- **Find frequency** of a specific value in a dataset  
+- **Count matching names**, categories, or entries  (Count how many times a name appears)
+- **Filter data** based on conditions like `"greater than"`, `"equals"`, or `"contains"` (Count values greater than or less than a number)
 
 
 
