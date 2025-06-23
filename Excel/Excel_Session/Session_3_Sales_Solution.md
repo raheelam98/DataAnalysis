@@ -21,31 +21,39 @@ Else, "Evening Shift"
 ---
 
 #### 1. Bring "store_location" columns from the sheet "Stores" to the sheet "Transactions" using store_ID.
-
-
+` VLOOKUP(D2,Stores!A:B,2,FALSE) `
 
 #### 2. Bring unit_price, product_category, product_type, product_detail columns from the sheet "Product" to the sheet "Transactions" using Product_ID.
+` XLOOKUP(E2,Products!A:A,Products!B:B,"Not found") `
 
 #### 3. Create a Total Sales column by multiplying Quantity with Price.
+` transaction_qty * unit_price `
 
 #### 4. Create a "Sales Category" for Orders: If Sale of the order  > average(sales), classify it as Premium, otherwise Standard.
+` IF(K2>AVERAGE(K:K),"Premium","Standard") `
 
 #### 5. Create a column to classify orders as "Weekend Order" if placed on Saturday or Sunday, otherwise "Weekday Order".
+` IF(OR(weekday="Saturday", weekday="Sunday"), "Weekend","Weekday order") `
 
 #### 6. Create a conditional column for Shifts based on Time:
 "Morning Shift": 6:00 AM - 2:00 PM,
 Else, "Evening Shift"
+` IF(AND(B2>=TIME(6,0,0),B2<TIME(14,0,0)),"Morning shift","Evening shift") `
 
-
+` IFS(AND(G2>=TIME(6,0,0),G2<TIME(14,0,0)),"Morning shift",AND(G2>=TIME(14,0,0),G2<TIME(22,0,0)),"Evening shift",TRUE,"Night Shift") `
 
 #### 7. Add a data validation rule to ensure only "Premium" or "Standard" values are entered in the Premium Pizza column.
 
 #### 8. Add a data validation rule to allow only whole numbers between 1 and 10 in the Quantity column.
 
 #### 9. What is the total sales amount?
+` =SUM(Transactions!L:L) `
+
 #### 10. How many stores are there?
+` =COUNTA(Stores!B2:B4) `
 
 #### 11. How many transactions were from store_id = 5?
+=_xlfn.MAXIFS(Products!B:B,Products!C:C,"Coffee")   --> check
 
 #### 12. What is the Highest unit price of Coffee?
 
@@ -53,28 +61,22 @@ Else, "Evening Shift"
 
 #### 14. How many orders have been placed for product_id = 40 on Sunday?
 
-###15. Which sales category (Premium, Standard) contributes most to total sales?
+### 15. Which sales category (Premium, Standard) contributes most to total sales?
 ---
 
 ### Session 03_Sales - AM
 
-VLOOKUP(D2,Stores!A:B,2,FALSE)
+- VLOOKUP(D2,Stores!A:B,2,FALSE)
+- XLOOKUP(E2,Products!A:A,Products!B:B,"Not found")
+- transaction_qty * unit_price
+- IF(K2>AVERAGE(K:K),"Premium","Standard")
+- IF(OR(weekday="Saturday", weekday="Sunday"), "Weekend","Weekday order")
 
-XLOOKUP(E2,Products!A:A,Products!B:B,"Not found")
+- IF(AND(B2>=TIME(6,0,0),B2<TIME(14,0,0)),"Morning shift","Evening shift")
+- IFS(AND(G2>=TIME(6,0,0),G2<TIME(14,0,0)),"Morning shift",AND(G2>=TIME(14,0,0),G2<TIME(22,0,0)),"Evening shift",TRUE,"Night Shift")
 
-transaction_qty * unit_price
-
-IF(K2>AVERAGE(K:K),"Premium","Standard")
-
-IF(OR(weekday="Saturday", weekday="Sunday"), "Weekend","Weekday order")
-
-IF(AND(B2>=TIME(6,0,0),B2<TIME(14,0,0)),"Morning shift","Evening shift")
-
-IFS(AND(G2>=TIME(6,0,0),G2<TIME(14,0,0)),"Morning shift",AND(G2>=TIME(14,0,0),G2<TIME(22,0,0)),"Evening shift",TRUE,"Night Shift")
-
-=SUM(Transactions!L:L)
-
-=COUNTA(Stores!B2:B4)
+-  =SUM(Transactions!L:L)
+-  =COUNTA(Stores!B2:B4)
 
 =COUNTIF(Transactions!E:E,5)
 
