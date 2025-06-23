@@ -26,7 +26,7 @@ Else, "Evening Shift"
 
 #### 2. Bring unit_price, product_category, product_type, product_detail columns from the sheet "Product" to the sheet "Transactions" using Product_ID.
 
-### 3. Create a Total Sales column by multiplying Quantity with Price.
+#### 3. Create a Total Sales column by multiplying Quantity with Price.
 
 #### 4. Create a "Sales Category" for Orders: If Sale of the order  > average(sales), classify it as Premium, otherwise Standard.
 
@@ -80,8 +80,9 @@ IFS(AND(G2>=TIME(6,0,0),G2<TIME(14,0,0)),"Morning shift",AND(G2>=TIME(14,0,0),G2
 
 =ROUND(AVERAGEIF(Products!C:C,"Bakery",Products!B:B),2)
 
-=ROUND(AVERAGEIF(Products!C:C,"Bakery",Products!B:B),2) F32
+=COUNTIFS(Transactions!F:F,40,Transactions!K:K,"Sunday")
 
+Premium   =SUMIF(Transactions!R:R,'TASK solution'!F33,Transactions!L:L)
 
 
 
