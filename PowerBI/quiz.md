@@ -1,4 +1,6 @@
-# Power BI Quiz 1 
+# Power BI Quiz 
+
+### Power BI Quiz 1 
 
 #### 1. What's the most powerful feature of Power BI?
 -  Collaboration and sharing  
@@ -25,11 +27,7 @@
 
 ---
 
-# Power BI DAX Quiz
-
-This quiz covers key concepts of DAX (Data Analysis Expressions) in Power BI.
-
----
+### Power BI Quiz 2
 
 #### 1. What is DAX in Power BI?
 - A database management tool  
@@ -60,7 +58,6 @@ This quiz covers key concepts of DAX (Data Analysis Expressions) in Power BI.
 - DAX performs calculations after data has been loaded into the model  
 - All of them  
 
-
 ---
 
 ### Power BI Quiz 1 Answers 
@@ -76,4 +73,23 @@ This quiz covers key concepts of DAX (Data Analysis Expressions) in Power BI.
 
 #### 4. Which DAX function returns a distinct value in a column?
 **Answer:** DISTINCT()
+
+---
+
+### Power BI Quiz 2 Answers 
+
+#### 1. What is DAX in Power BI?
+- A formula language used for data calculations and analysis
+
+#### 2. What is the main difference between a DAX Calculated Column and a DAX Measure?
+- Calculated columns are computed per row; measures are aggregated values
+
+#### 3. What is an explicit measure in Power BI?
+- A measure written manually using DAX
+
+#### 4. Which of the following best describes the purpose of using DAX in Power BI?
+- Creating custom aggregations and logic
+
+#### 5. What is TRUE about M Query and DAX?
+- All of them
 
