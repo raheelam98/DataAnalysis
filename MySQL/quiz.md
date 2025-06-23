@@ -34,25 +34,6 @@
 
 ---
 
-### SQL Quiz 1
-
-#### 1. Which of the following is a DML command?  
-INSERT
-
-#### 2. Which command is used to change the structure of an existing table?  
-ALTER
-
-#### 3. Which DDL command is used to remove a table from the database permanently?  
-DROP
-
-#### 4. Which DML command is used to remove specific rows from a table?  
-DELETE
-
-#### 5. Which of the following commands is used to save a transaction in SQL?  
-COMMIT
-
----
-
 ### SQL Quiz 2
 
 #### 1. Suppose we have the string `"HelloWorld"` and want to extract `"World"` using `SUBSTRING`. Which `SUBSTRING` function would you use?
@@ -75,6 +56,25 @@ Query 2: `SELECT * FROM customers WHERE age > 18 AND country = 'USA';`
 - Query 2 filters by age first, then country  
 - The order of conditions doesn't matter; results will be the same  
 - Query 1 filters by country first, then age
+
+---
+
+### SQL Quiz 1
+
+#### 1. Which of the following is a DML command?  
+INSERT
+
+#### 2. Which command is used to change the structure of an existing table?  
+ALTER
+
+#### 3. Which DDL command is used to remove a table from the database permanently?  
+DROP
+
+#### 4. Which DML command is used to remove specific rows from a table?  
+DELETE
+
+#### 5. Which of the following commands is used to save a transaction in SQL?  
+COMMIT
 
 ---
 
