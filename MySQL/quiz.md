@@ -2,6 +2,59 @@
 
 ### SQL Quiz 1
 
+#### 1. Which of the following is a DML command?
+- CREATE  
+- ALTER  
+- INSERT  
+- DROP
+
+#### 2. Which command is used to change the structure of an existing table?
+- INSERT  
+- ALTER  
+- UPDATE  
+- DELETE
+
+#### 3. Which DDL command is used to remove a table from the database permanently?
+- TRUNCATE  
+- DELETE  
+- DROP  
+- REMOVE
+
+#### 4. Which DML command is used to remove specific rows from a table?
+- DROP  
+- DELETE  
+- TRUNCATE  
+- REMOVE
+
+#### 5. Which of the following commands is used to save a transaction in SQL?
+- ROLLBACK  
+- COMMIT  
+- SAVE  
+- SAVEPOINT
+
+---
+
+### SQL Quiz 1
+
+#### 1. Which of the following is a DML command?  
+INSERT
+
+#### 2. Which command is used to change the structure of an existing table?  
+ALTER
+
+#### 3. Which DDL command is used to remove a table from the database permanently?  
+DROP
+
+#### 4. Which DML command is used to remove specific rows from a table?  
+DELETE
+
+#### 5. Which of the following commands is used to save a transaction in SQL?  
+COMMIT
+
+---
+
+### SQL Quiz 2
+
 #### 1. Suppose we have the string `"HelloWorld"` and want to extract `"World"` using `SUBSTRING`. Which `SUBSTRING` function would you use?
 - SUBSTRING('HelloWorld', 1, 5)  
 - SUBSTRING('HelloWorld', 6, 5)  
@@ -25,34 +78,7 @@ Query 2: `SELECT * FROM customers WHERE age > 18 AND country = 'USA';`
 
 ---
 
-### SQL Quiz 1
-
-**1. Suppose we have the string `"HelloWorld"` and want to extract `"World"` using `SUBSTRING`. Which `SUBSTRING` function would you use?**
-
-- [ ] SUBSTRING('HelloWorld', 1, 5)  
-- [ ] SUBSTRING('HelloWorld', 6, 5)  
-- [ ] SUBSTRING('HelloWorld', 1, 10)
-
-**2. What is the primary use of the `CASE` statement in SQL?**
-
-- [ ] To perform calculations  
-- [ ] To manipulate strings  
-- [ ] To join tables  
-- [ ] To perform conditional logic
- 
-**3. What is the difference between the following two SQL queries?**
-
-Query 1: SELECT * FROM customers WHERE country = 'USA' AND age > 18;
-Query 2: SELECT * FROM customers WHERE age > 18 AND country = 'USA';
-
-- [ ] Query 1 is faster than Query 2
-- [ ] Query 2 filters by age first, then country
-- [ ] The order of conditions doesn't matter; results will be the same
-- [ ] Query 1 filters by country first, then age
-
----
-
-### SQL Practice Quiz Answer
+### SQL Quiz 2 Answer
 
 #### 1. Suppose we have the string `"HelloWorld"` and want to extract `"World"` using `SUBSTRING`. Which `SUBSTRING` function would you use?
 SUBSTRING('HelloWorld', 6, 5)
