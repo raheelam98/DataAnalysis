@@ -11,6 +11,8 @@
 7. What is the Highest unit price of Coffee?
 8. What is the average price of Bakery Category products?
 
+---
+
 #### Excel Session - Solution - 02 Task (Sales 2nd Session)
 
 #### 1. How many total transactions are in the dataset?
