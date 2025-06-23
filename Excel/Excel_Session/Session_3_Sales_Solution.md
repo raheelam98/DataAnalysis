@@ -64,7 +64,7 @@ Else, "Evening Shift"
 #### 14. How many orders have been placed for product_id = 40 on Sunday?
 ` =COUNTIFS(Transactions!F:F,40,Transactions!K:K,"Sunday") `
 
-### 15. Which sales category (Premium, Standard) contributes most to total sales?
+#### 15. Which sales category (Premium, Standard) contributes most to total sales?
 Premium   ` =SUMIF(Transactions!R:R,'TASK solution'!F33,Transactions!L:L) `
 
 Standard  ` =SUMIF(Transactions!R:R,'TASK solution'!F34,Transactions!L:L) `
