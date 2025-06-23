@@ -93,7 +93,10 @@ Standard  ` =SUMIF(Transactions!R:R,'TASK solution'!F34,Transactions!L:L) `
 
 =_xlfn.MAXIFS(Products!B:B,Products!C:C,"Coffee")   --> check
 
+#### sample table - sesseion-03-AM
+constant   `=IF(ISBLANK(A2),"Unknown",A2) `,  Salary(A) if salary is blank write Unknow in constant
 
-=IF(ISBLANK(A2),"Unknown",A2) ,  Salary(A) if salary is blank write Unknow in constant
+fill with average  ` =IF(ISBLANK(A2),ROUND(AVERAGE(A:A),0),A2) `
 
+mode  ` =IF(ISBLANK(A2),MODE(A:A),A2) `
 
