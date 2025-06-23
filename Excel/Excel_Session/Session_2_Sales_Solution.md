@@ -64,7 +64,7 @@ store_locations column :-  `=UNIQUE(B:B)`    Peshawar.  Islamabad. Lahore  -- st
 - month-year       `=LEFT(B2,FIND("_",B2)-1) & "-" & RIGHT(B2,4)`  e.g.   1_2023
 - day/month/year    `=DATE(E2,D2,C2)`
 
-##### Trim , Find 
+##### TRIM , FIND 
 - **Separate Two Things From Column Data**, e.g. `store_id|product_id `
 - store_id    `=TRIM(LEFT(G2,FIND("|",G2)-1))`
 - product_id    `=TRIM(RIGHT(G2,LEN(G2)-FIND("|",G2)))`
