@@ -1,4 +1,6 @@
 ## Power BI
+
+[How to Calculate Year over Year Growth % in Power BI - Data Science Tutorials](https://www.youtube.com/watch?v=vaUeODZJyd4)
  
 ### Power BI - Data Modeling Resources
 
