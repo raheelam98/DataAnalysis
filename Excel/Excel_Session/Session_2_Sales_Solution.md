@@ -33,13 +33,14 @@ stores total     ` =COUNTA(UNIQUE(H:H))`  result = 5  (column H - store_id in Tr
 #### 6. How many types of tea products are available?
 unique tea products  ` =SUM(COUNTA(FILTER(A:A, (C:C="Loose Tea")+(C:C="Tea"))))`  result = 24
 
-#### 7. What is the Highest unit price of Coffee?
+#### 7. What is the Highest unit price of Coffee? (product-sheet)
+??
+
 - Filter loose tea and tea from product_category :  `FILTER(A:A, (C:C="Loose Tea")+(C:C="Tea"))`
-- Count Loose Tea and Tea from product_category :  `=COUNTIFS(C:C, "Loose Tea") + COUNTIFS(C:C, "Tea")`
+  result = 11, 12, 13, 14, 15, 16, 17, 18, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56,57
+- Count Loose Tea and Tea from product_category :  `=COUNTIFS(C:C, "Loose Tea") + COUNTIFS(C:C, "Tea")`   result = 24
 
 #### 8. What is the average price of Bakery Category products?
-
-
 store_locations column :-  `=UNIQUE(B:B)`    Peshawar.  Islamabad. Lahore  -- store-sheet 
 
 ---
