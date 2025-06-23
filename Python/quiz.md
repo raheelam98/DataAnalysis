@@ -135,4 +135,30 @@ for i in range(0, 10, 2):
 
 - 5
 
+---
+
+### Python Quiz 2 Answer
+
+#### 1. What is the output of the following code?
+for i in range(5):   if i == 2:     continue   print(i)
+* 0 1 2 3 4
+
+#### 2. What is the output?
+for i in range(3):   pass print("Done")
+* Done
+
+#### 3. What is the output of this code?
+for i in range(5):   if i == 3:     break   print(i)
+* 0 1 2
+
+#### 4. Which loop is best when the number of iterations is unknown?
+* while loop
+
+#### 5. What will be the output?
+i = 1 while i < 4:   print(i)   i += 1
+* 1 2 3
+
+
+
+
 
