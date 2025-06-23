@@ -53,15 +53,22 @@ Else, "Evening Shift"
 ` =COUNTA(Stores!B2:B4) `
 
 #### 11. How many transactions were from store_id = 5?
-=_xlfn.MAXIFS(Products!B:B,Products!C:C,"Coffee")   --> check
+` =COUNTIF(Transactions!E:E,5) `
 
 #### 12. What is the Highest unit price of Coffee?
 
 #### 13. What is the average price of Bakery Category products?
+` =ROUND(AVERAGEIF(Products!C:C,"Bakery",Products!B:B),2) `
 
 #### 14. How many orders have been placed for product_id = 40 on Sunday?
+` =COUNTIFS(Transactions!F:F,40,Transactions!K:K,"Sunday") `
 
 ### 15. Which sales category (Premium, Standard) contributes most to total sales?
+Premium   ` =SUMIF(Transactions!R:R,'TASK solution'!F33,Transactions!L:L) `
+
+Standard  ` =SUMIF(Transactions!R:R,'TASK solution'!F34,Transactions!L:L) `
+
+
 ---
 
 ### Session 03_Sales - AM
@@ -77,14 +84,13 @@ Else, "Evening Shift"
 
 -  =SUM(Transactions!L:L)
 -  =COUNTA(Stores!B2:B4)
+-  =COUNTIF(Transactions!E:E,5)
+-  =ROUND(AVERAGEIF(Products!C:C,"Bakery",Products!B:B),2)
+-  =COUNTIFS(Transactions!F:F,40,Transactions!K:K,"Sunday")
 
-=COUNTIF(Transactions!E:E,5)
+Premium   ` =SUMIF(Transactions!R:R,'TASK solution'!F33,Transactions!L:L) `
+Standard  ` =SUMIF(Transactions!R:R,'TASK solution'!F34,Transactions!L:L) `
 
-=ROUND(AVERAGEIF(Products!C:C,"Bakery",Products!B:B),2)
-
-=COUNTIFS(Transactions!F:F,40,Transactions!K:K,"Sunday")
-
-Premium   =SUMIF(Transactions!R:R,'TASK solution'!F33,Transactions!L:L)
-
+=_xlfn.MAXIFS(Products!B:B,Products!C:C,"Coffee")   --> check
 
 
