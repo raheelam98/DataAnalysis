@@ -12,7 +12,7 @@
 6. How many types of tea products are available?
 7. What is the Highest unit price of Coffee?
 8. What is the average price of Bakery Category products?
-
+ 
 #### Excel Session - 03 Task (Sales 3rd Session)
 
 1. Bring "store_location" columns from the sheet "Stores" to the sheet "Transactions" using store_ID.
