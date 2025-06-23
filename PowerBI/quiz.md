@@ -27,7 +27,7 @@
 
 ---
 
-### Power BI Quiz 2
+### Power BI Quiz 3
 
 #### 1. What is DAX in Power BI?
 - A database management tool  
@@ -76,20 +76,73 @@
 
 ---
 
-### Power BI Quiz 2 Answers 
+### Power BI Quiz 2
+
+#### 1. Which feature in Power Query Editor helps identify errors, empty, and valid values in columns?
+- Column Filter  
+- Column Quality  
+- Remove Errors  
+- Column Tools  
+
+#### 2. What is the purpose of enabling 'Column Distribution' in Power Query?
+- To show total rows  
+- To view data types  
+- To see frequency and uniqueness of values  
+- To remove duplicates  
+
+#### 3. Which of the following is typically stored in a fact table?
+- Customer names and addresses  
+- Product categories and subcategories  
+- Transactional data like sales, profit, and quantity  
+- Geographic regions and postal codes  
+
+#### 4. What is the primary role of a dimension table in a data model?
+- To store numeric metrics  
+- To track the number of records  
+- To provide descriptive attributes for filtering and slicing fact data  
+- To calculate measures  
+
+#### 5. Why do we remove duplicates from the Dimension tables?
+- To increase file size  
+- To avoid repeated visuals  
+- To ensure data normalization and avoid redundancy  
+- To disable indexing  
+
+---
+
+### Power BI Quiz 2 Answer
+
+#### 1. Which feature in Power Query Editor helps identify errors, empty, and valid values in columns?
+Column Quality
+
+#### 2. What is the purpose of enabling 'Column Distribution' in Power Query?
+To see frequency and uniqueness of values
+
+#### 3. Which of the following is typically stored in a fact table?
+Transactional data like sales, profit, and quantity
+
+#### 4. What is the primary role of a dimension table in a data model?
+To provide descriptive attributes for filtering and slicing fact data
+
+#### 5. Why do we remove duplicates from the Dimension tables?
+To ensure data normalization and avoid redundancy
+
+---
+
+### Power BI Quiz 3 Answers 
 
 #### 1. What is DAX in Power BI?
-- A formula language used for data calculations and analysis
+A formula language used for data calculations and analysis
 
 #### 2. What is the main difference between a DAX Calculated Column and a DAX Measure?
-- Calculated columns are computed per row; measures are aggregated values
+Calculated columns are computed per row; measures are aggregated values
 
 #### 3. What is an explicit measure in Power BI?
-- A measure written manually using DAX
+A measure written manually using DAX
 
 #### 4. Which of the following best describes the purpose of using DAX in Power BI?
-- Creating custom aggregations and logic
+Creating custom aggregations and logic
 
 #### 5. What is TRUE about M Query and DAX?
-- All of them
+All of them
 
