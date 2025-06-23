@@ -27,6 +27,40 @@
 
 ---
 
+### Power BI Quiz 2
+
+#### 1. Which feature in Power Query Editor helps identify errors, empty, and valid values in columns?
+- Column Filter  
+- Column Quality  
+- Remove Errors  
+- Column Tools  
+
+#### 2. What is the purpose of enabling 'Column Distribution' in Power Query?
+- To show total rows  
+- To view data types  
+- To see frequency and uniqueness of values  
+- To remove duplicates  
+
+#### 3. Which of the following is typically stored in a fact table?
+- Customer names and addresses  
+- Product categories and subcategories  
+- Transactional data like sales, profit, and quantity  
+- Geographic regions and postal codes  
+
+#### 4. What is the primary role of a dimension table in a data model?
+- To store numeric metrics  
+- To track the number of records  
+- To provide descriptive attributes for filtering and slicing fact data  
+- To calculate measures  
+
+#### 5. Why do we remove duplicates from the Dimension tables?
+- To increase file size  
+- To avoid repeated visuals  
+- To ensure data normalization and avoid redundancy  
+- To disable indexing  
+
+---
+
 ### Power BI Quiz 3
 
 #### 1. What is DAX in Power BI?
@@ -60,6 +94,40 @@
 
 ---
 
+### Power BI Quiz 4
+
+#### 1. Which view in Power BI is used to create Dashboard?
+- Report View  
+- Data View  
+- Modeling View  
+- DAX View  
+
+#### 2. What is a slicer used for in a Power BI report?
+- To create new relationships  
+- To filter visuals interactively  
+- To write DAX expressions  
+- To manage datasets  
+
+#### 3. Which Power BI component is used for data cleaning and transformation?
+- Report View  
+- Power Apps  
+- Power Query Editor  
+- None of them  
+
+#### 4. What is the role of the CALCULATE() function in DAX?
+- To format numbers  
+- To load data  
+- To change the filter context of a calculation  
+- To combine text values  
+
+#### 5. Which option allows you to refresh your dataset manually in Power BI Desktop?
+- File → Save  
+- Home → Refresh  
+- View → Data  
+- Modeling → Manage  
+
+---
+
 ### Power BI Quiz 1 Answers 
 
 #### 1. What's the most powerful feature of Power BI?
@@ -73,40 +141,6 @@
 
 #### 4. Which DAX function returns a distinct value in a column?
 **Answer:** DISTINCT()
-
----
-
-### Power BI Quiz 2
-
-#### 1. Which feature in Power Query Editor helps identify errors, empty, and valid values in columns?
-- Column Filter  
-- Column Quality  
-- Remove Errors  
-- Column Tools  
-
-#### 2. What is the purpose of enabling 'Column Distribution' in Power Query?
-- To show total rows  
-- To view data types  
-- To see frequency and uniqueness of values  
-- To remove duplicates  
-
-#### 3. Which of the following is typically stored in a fact table?
-- Customer names and addresses  
-- Product categories and subcategories  
-- Transactional data like sales, profit, and quantity  
-- Geographic regions and postal codes  
-
-#### 4. What is the primary role of a dimension table in a data model?
-- To store numeric metrics  
-- To track the number of records  
-- To provide descriptive attributes for filtering and slicing fact data  
-- To calculate measures  
-
-#### 5. Why do we remove duplicates from the Dimension tables?
-- To increase file size  
-- To avoid repeated visuals  
-- To ensure data normalization and avoid redundancy  
-- To disable indexing  
 
 ---
 
@@ -145,4 +179,23 @@ Creating custom aggregations and logic
 
 #### 5. What is TRUE about M Query and DAX?
 All of them
+
+---
+
+### Power BI Quiz 4
+
+#### 1. Which view in Power BI is used to create Dashboard?
+Report View
+
+#### 2. What is a slicer used for in a Power BI report?
+To filter visuals interactively
+
+#### 3. Which Power BI component is used for data cleaning and transformation?
+Power Query Editor
+
+#### 4. What is the role of the CALCULATE() function in DAX?
+To change the filter context of a calculation
+
+#### 5. Which option allows you to refresh your dataset manually in Power BI Desktop?
+Home → Refresh
 
