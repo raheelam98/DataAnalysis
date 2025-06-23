@@ -36,8 +36,8 @@ Else, "Evening Shift"
 ` IF(OR(weekday="Saturday", weekday="Sunday"), "Weekend","Weekday order") `
 
 #### 6. Create a conditional column for Shifts based on Time:
-"Morning Shift": 6:00 AM - 2:00 PM,
-Else, "Evening Shift"
+"Morning Shift": 6:00 AM - 2:00 PM,  Else, "Evening Shift"
+
 ` IF(AND(B2>=TIME(6,0,0),B2<TIME(14,0,0)),"Morning shift","Evening shift") `
 
 ` IFS(AND(G2>=TIME(6,0,0),G2<TIME(14,0,0)),"Morning shift",AND(G2>=TIME(14,0,0),G2<TIME(22,0,0)),"Evening shift",TRUE,"Night Shift") `
@@ -92,5 +92,8 @@ Premium   ` =SUMIF(Transactions!R:R,'TASK solution'!F33,Transactions!L:L) `
 Standard  ` =SUMIF(Transactions!R:R,'TASK solution'!F34,Transactions!L:L) `
 
 =_xlfn.MAXIFS(Products!B:B,Products!C:C,"Coffee")   --> check
+
+
+=IF(ISBLANK(A2),"Unknown",A2) ,  Salary(A) if salary is blank write Unknow in constant
 
 
