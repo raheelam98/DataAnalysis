@@ -56,6 +56,7 @@ Else, "Evening Shift"
 ` =COUNTIF(Transactions!E:E,5) `
 
 #### 12. What is the Highest unit price of Coffee?
+` =MAX(FILTER(D2:D100, C2:C100="Coffee")) `  result = 1850 check
 
 #### 13. What is the average price of Bakery Category products?
 ` =ROUND(AVERAGEIF(Products!C:C,"Bakery",Products!B:B),2) `
