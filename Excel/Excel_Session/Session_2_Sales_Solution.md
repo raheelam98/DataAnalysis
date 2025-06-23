@@ -86,6 +86,7 @@ store_locations column :-  `=UNIQUE(B:B)`    Peshawar.  Islamabad. Lahore  -- st
       (R-column) total_sales (6) , sales_category = Premimum
 - **weekend_order - week_order/weekend_order:** check ` =IF(OR(G2="Sunday",G2="Saturday"),"Weekend orders","Weekday order") `
     (column-G) day of week (sunday)  weekend_order=*weekend_order
+  - **if cell is empty write unknow :**  ` =IF(ISBLANK(A2),"Unknown",A2)  `,  Salary(A) if salary is blank write Unknow in constant
 
 ##### UNIQUE,  
 - `=COUNTA(UNIQUE(H:H))`
