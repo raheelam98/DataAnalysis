@@ -25,13 +25,15 @@
 **`=column1& "-" &column2`  (combine two columns  )**  (e.g. month-year)   =D2 &"-" &E2  
 
 **Formating Date,   day_monthyear** Given Date format:  30_12023 
-- separate day     =LEFT(B2,LEN(B2)-6)       e.g. 30
-- separate month   =MID(B3,FIND("_",B3)+1,1) e.g. 1
-- separate year    =RIGHT(B2,4)             e.g. 2023
-- month-year       =LEFT(B2,FIND("_",B2)-1) & "-" & RIGHT(B2,4)  e.g.   1_2023
-- month-year check      =TEXT(DATE(RIGHT(B2,4),LEFT(B2,FIND("_",B2)-1),1),"mmm-yyyy") January-2023
-- day/month/year  check  =DATE(E2,D2,C2)
+- separate day     `=LEFT(B2,LEN(B2)-6)`       e.g. 30
+- separate month   `=MID(B3,FIND("_",B3)+1,1)` e.g. 1
+- separate year    `=RIGHT(B2,4)`             e.g. 2023
+- month-year       `=LEFT(B2,FIND("_",B2)-1) & "-" & RIGHT(B2,4)`  e.g.   1_2023
+- day/month/year    `=DATE(E2,D2,C2)`
 
+**Trim , Find : Separate Column Data, e.g. store_id|sale_id**
+- store_id    `=TRIM(LEFT(G2,FIND("|",G2)-1))`
+- sale_id     `=TRIM(RIGHT(G2,LEN(G2)-FIND("|",G2)))`
 
 **`=COUNTIF(range, criteria) :`** count the number of cells in a range that meet a specific condition
 
