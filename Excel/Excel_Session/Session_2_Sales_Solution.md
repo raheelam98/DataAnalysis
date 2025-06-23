@@ -73,27 +73,21 @@ store_locations column :-  `=UNIQUE(B:B)`    Peshawar.  Islamabad. Lahore  -- st
 - **transaction_total_rows :** `=ROWS(A:A)`
 - **total_without_blank :** `=COUNT(A:A)`
 - **orders in March 2023 :** `=COUNTIF(B:B,"*_32023")`
-  
   DateFormat 1_32023 (day_monthyear)
 - **stores total :**  `=COUNTA(UNIQUE(H:H))`
 
 ##### TEXT, IF, TIME, OR, AVERAGE
 - **transactions for store_id = 5 :**  `=COUNTIF(H:H,5)`
 - **day of the week :**  ` TEXT(F2,"=TEXT(F2,"dddd")" `
-  
-  (F-column) Date (10/1/2023) result = sunday
+    (F-column) Date (10/1/2023) result = sunday
 - **shift - Morning/Evening :** ` =IF(AND(H2>=TIME(6,0,0),H2<=TIME(14,0,0)),"Morning shift","Evening shift") `
-- 
-  (H-column) transaction_time (7:06:11)  shift = Morining shift
+    (H-column) transaction_time (7:06:11)  shift = Morining shift
 - **total_sales :**   ` M2*N2 `
-- 
-  (M-column) transaction_qty (2) , (N-column) unit_price (3), total_sales = 6
+     (M-column) transaction_qty (2) , (N-column) unit_price (3), total_sales = 6
 - **sales_category - Premimum/Standard :**  ` =IF(R3>AVERAGE(R:R),"Premimum","Standard") `
-  
-  (R-column) total_sales (6) , sales_category = Premimum
+      (R-column) total_sales (6) , sales_category = Premimum
 - **weekend_order - week_order/weekend_order:** check ` =IF(OR(G2="Sunday",G2="Saturday"),"Weekend orders","Weekday order") `
- 
- (column-G) day of week (sunday)  weekend_order=*weekend_order
+    (column-G) day of week (sunday)  weekend_order=*weekend_order
 
 ##### UNIQUE,  
 - `=COUNTA(UNIQUE(H:H))`
