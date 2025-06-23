@@ -78,10 +78,8 @@ store_locations column :-  `=UNIQUE(B:B)`    Peshawar.  Islamabad. Lahore  -- st
 
 ##### TEXT, IF, TIME, OR, AVERAGE
 - **transactions for store_id = 5 :**  `=COUNTIF(H:H,5)`
-- **day of the week :**  ` TEXT(F2,"=TEXT(F2,"dddd")" `
-    (F-column) Date (10/1/2023) result = sunday
-- **shift - Morning/Evening :** ` =IF(AND(H2>=TIME(6,0,0),H2<=TIME(14,0,0)),"Morning shift","Evening shift") `
-    (H-column) transaction_time (7:06:11)  shift = Morining shift
+- **day of the week  :**  ` TEXT(F2,"=TEXT(F2,"dddd")" ` :  (F-column) Date (10/1/2023) result = sunday
+- **shift - Morning/Evening  :** ` =IF(AND(H2>=TIME(6,0,0),H2<=TIME(14,0,0)),"Morning shift","Evening shift") `   :    (H-column) transaction_time (7:06:11)  shift = Morining shift
 - **total_sales :**   ` M2*N2 `
      (M-column) transaction_qty (2) , (N-column) unit_price (3), total_sales = 6
 - **sales_category - Premimum/Standard :**  ` =IF(R3>AVERAGE(R:R),"Premimum","Standard") `
