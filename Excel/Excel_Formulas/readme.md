@@ -14,20 +14,20 @@ result in "Hello World".
 
 #### 2. Text Functions: LEFT, RIGHT, MID
 
-LEFT
+**LEFT**
 Extracts a specified number of characters from the start of a text string.
-• Formula: =LEFT(text, num_chars)
-• Example: =LEFT("Excel", 2) returns "Ex"
+- **` Formula: =LEFT(text, num_chars) `**
+- Example: =LEFT("Excel", 2) returns "Ex"
 
-RIGHT
+**RIGHT**
 Extracts a specified number of characters from the end of a text string.
-• Formula: =RIGHT(text, num_chars)
-• Example: =RIGHT("Excel", 2) returns "el"
+- Formula: =RIGHT(text, num_chars)
+- Example: =RIGHT("Excel", 2) returns "el"
 
-MID
+**MID**
 Extracts characters from the middle of a text string, starting at a specified position.
-• Formula: =MID(text, start_num, num_chars)
-• Example: =MID("Excel", 2, 3) returns "xce".
+- **` Formula: =MID(text, start_num, num_chars) `**
+- Example: =MID("Excel", 2, 3) returns "xce".
 
 #### 3. Advanced Sorting and Filtering
 
