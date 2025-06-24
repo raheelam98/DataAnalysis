@@ -35,8 +35,6 @@ Extracts characters from the middle of a text string, starting at a specified po
 
 
 ## Excel Manual – Session 03
-
-Table of Contents
 1. IF Function
 2. Advanced Logical Functions (AND, OR, NOT)
 3. VLOOKUP in-depth
