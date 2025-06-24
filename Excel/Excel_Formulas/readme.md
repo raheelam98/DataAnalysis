@@ -43,7 +43,7 @@ Table of Contents
 4. Data Validation: Creating Rules to Ensure Data
 
 #### 1. IF Function : logical tests and returns different values based on whether the condition is TRUE or FALSE.
-- **` =IF(logical_test, value_if_true, value_if_false) `**
+- Formula **` =IF(logical_test, value_if_true, value_if_false) `**
 -  If cell A1 contains a number, =IF(A1 > 10, "Yes", "No") will return "Yes" if A1 is
 greater than 10, otherwise it will return "No".
 
@@ -71,7 +71,7 @@ VLOOKUP (Vertical Lookup) searches for a value in the first column of a table an
 - Formula **` =VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup]) `**
 - **Example :**
  To find the price of an item in a list where the item names are in column A and prices in column B, =VLOOKUP("Apple", A:B, 2, FALSE) returns the price of "Apple".
-**Key Points :**
+- **Key Points :**
 - Ensure the lookup value is in the first column of the table array.
 - Use FALSE for an exact match and TRUE for an approximate match.
 
