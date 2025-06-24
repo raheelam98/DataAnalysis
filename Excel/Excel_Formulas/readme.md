@@ -7,9 +7,8 @@ Excel sheets Manual
 #### 1. Text to Column and CONCAT
 This feature allows you to split the content of a single column into multiple columns based on a  delimiter (e.g., comma, space).
 
-Formula: =CONCAT(text1, text2, ...)
-• Example:
-o If A1 contains "Hello" and B1 contains "World", =CONCAT(A1, " ", B1) will
+**` Formula: =CONCAT(text1, text2, ...) `**
+- If A1 contains "Hello" and B1 contains "World", =CONCAT(A1, " ", B1) will
 result in "Hello World".
 
 
