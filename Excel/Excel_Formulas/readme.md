@@ -69,26 +69,26 @@ TRUE and TRUE if the argument is FALSE.
 #### 3. VLOOKUP in-depth
 VLOOKUP (Vertical Lookup) searches for a value in the first column of a table and returns a value in the same row from a specified column.
 - Formula **` =VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup]) `**
-Example
-• To find the price of an item in a list where the item names are in column A and prices in column B, =VLOOKUP("Apple", A:B, 2, FALSE) returns the price of "Apple".
-Key Points
-• Ensure the lookup value is in the first column of the table array.
-• Use FALSE for an exact match and TRUE for an approximate match.
+- **Example :**
+ To find the price of an item in a list where the item names are in column A and prices in column B, =VLOOKUP("Apple", A:B, 2, FALSE) returns the price of "Apple".
+**Key Points :**
+- Ensure the lookup value is in the first column of the table array.
+- Use FALSE for an exact match and TRUE for an approximate match.
 
 #### 4. Data Validation: Creating Rules to Ensure Data Integrity
 Data validation is used to create rules that restrict the type of data or the values that users can enter a cell.
 
-Steps
+**Steps :**
 1. Select the cells where you want to apply data validation.
 2. Go to the Data tab and click on Data Validation.
 3.Set the criteria for data validation (e.g., whole number, list, date)
-Example
+**Example :**
 To restrict a cell to accept only whole numbers between 1 and 100:
 1. Select the cell(s).
 2. Go to Data Validation > Settings tab.
 3. In Allow, select Whole number.
 4. Set the minimum and maximum values to 1 and 100, respectively.
-Tips
-• Use custom formulas for more complex validation rules.
-• Add input messages and error alerts to guide users.
+**Tips :**
+- Use custom formulas for more complex validation rules.
+- Add input messages and error alerts to guide users.
 
