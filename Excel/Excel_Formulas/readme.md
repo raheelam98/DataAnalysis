@@ -75,10 +75,12 @@ VLOOKUP (Vertical Lookup) searches for a value in the first column of a table an
 
 #### 4. Data Validation: Creating Rules to Ensure Data Integrity
 Data validation is used to create rules that restrict the type of data or the values that users can enter a cell.
+
 **Steps :**
 1. Select the cells where you want to apply data validation.
 2. Go to the Data tab and click on Data Validation.
 3.Set the criteria for data validation (e.g., whole number, list, date)
+
 **Example :**
 To restrict a cell to accept only whole numbers between 1 and 100:
 1. Select the cell(s).
