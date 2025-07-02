@@ -4,6 +4,36 @@
 
 ---
 
+### EDA Session - 02
+
+#### 🔹 GroupBy and Binning
+
+#### 🔹 Handling Missing Values
+
+- Drop (rows or columns)
+- Fill
+  - Constant
+  - Mean
+  - Median
+  - Mode
+  - Forward / Backward Fill
+
+#### 📚 Reading Materials
+
+Here are the articles to read before your upcoming session:
+
+- [Techniques to Handle Missing Data Values – DataCamp](https://www.datacamp.com/tutorial/techniques-to-handle-missing-data-values)
+- [Master Data Binning in Python Using Pandas – Train in Data](https://www.blog.trainindata.com/master-data-binning-in-python-using-pandas/)
+
+#### 📄 Manual
+
+Access the session manual here:  
+[Google Docs Manual](https://docs.google.com/document/d/1V_aRot-8WZMiMArZQCJvRHhHYstP_MRh1q44sNLkEaE/edit?usp=sharing)
+
+
+
+---
+
 ### EDA Session - 03
 
 **Data Cleaning: Handling Missing Values & Outliers**
@@ -47,5 +77,8 @@ Access the session manual here:
 
 - [DataCamp Tutorial on Fuzzy String Matching](https://www.datacamp.com/tutorial/fuzzy-string-python)
 - [GeeksforGeeks: FuzzyWuzzy Python Library](https://www.geeksforgeeks.org/python/fuzzywuzzy-python-library/)
-- [📄 User Manual (Google Doc)](https://docs.google.com/document/d/1K4GZU_4vLaSWurdHmTGu5201xrR8sw386EwG1pv6aJg/edit?usp=sharing)
 
+#### User Manual
+
+Please find the FuzzyWuzzy user manual here:  
+https://docs.google.com/document/d/1K4GZU_4vLaSWurdHmTGu5201xrR8sw386EwG1pv6aJg/edit?usp=sharing
