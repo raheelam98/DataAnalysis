@@ -1,6 +1,5 @@
 ## EDA Sessions  
- 
-### Tutorials
+
 
 ### Tutorials
      
@@ -95,13 +94,22 @@ Here are the articles to read before your upcoming session:
 - IQR Based Filtering
 - Capping
 
-[EDA Session 03 - Handling Missing Values](https://colab.research.google.com/drive/1GCWi4mCn4R5Mvak7upCPxU4Eka-08ceO?usp=sharing&authuser=0)
+[EDA Session 03 - Handling Missing Values - colab](https://colab.research.google.com/drive/1GCWi4mCn4R5Mvak7upCPxU4Eka-08ceO?usp=sharing&authuser=0)
 
 #### 📚 Reading Materials
 
 - [Techniques to Handle Missing Data Values – DataCamp](https://www.datacamp.com/tutorial/techniques-to-handle-missing-data-values)
 - [Detect and Remove Outliers with Python – Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/05/feature-engineering-how-to-detect-and-remove-outliers-with-python-code/)
 - [Detect and Remove Outliers – GeeksforGeeks](https://www.geeksforgeeks.org/data-science/detect-and-remove-the-outliers-using-python/)
+
+#### Other Reading Materials
+
+- [Using Matplotlib](https://matplotlib.org/stable/users/index)
+- [Building structured multi-plot grids - seaborn](https://seaborn.pydata.org/tutorial/axis_grids.html)
+
+#### Videos
+
+- [How to calculate interquartile range IQR | Data and statistics | 6th grade | Khan Academy](https://www.youtube.com/watch?v=qLYYHWYr8xI)
 
 #### Manual
 
@@ -130,12 +138,4 @@ Here are the articles to read before your upcoming session:
 
 ---
 
-#### 📚 Reading Materials
-
-- [Using Matplotlib](https://matplotlib.org/stable/users/index)
-- [Building structured multi-plot grids - seaborn](https://seaborn.pydata.org/tutorial/axis_grids.html)
-
-#### Videos
-
-- [How to calculate interquartile range IQR | Data and statistics | 6th grade | Khan Academy](https://www.youtube.com/watch?v=qLYYHWYr8xI)
 
