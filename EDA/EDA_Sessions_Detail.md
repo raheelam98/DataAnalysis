@@ -76,6 +76,8 @@ Here are the articles to read before your upcoming session:
 - IQR Based Filtering
 - Capping
 
+[EDA Session 03 - Handling Missing Values](https://colab.research.google.com/drive/1GCWi4mCn4R5Mvak7upCPxU4Eka-08ceO?usp=sharing&authuser=0)
+
 #### 📚 Reading Materials
 
 - [Techniques to Handle Missing Data Values – DataCamp](https://www.datacamp.com/tutorial/techniques-to-handle-missing-data-values)
