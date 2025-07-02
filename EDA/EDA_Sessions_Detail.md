@@ -28,6 +28,7 @@ Here are the articles to read before your upcoming session:
 
 - [AI Adoption](https://www.virtusa.com/digital-themes/ai-adoption)
 - [How Many Companies Use AI? (New 2025 Data)](https://explodingtopics.com/blog/companies-using-ai)
+- [Iloc vs Loc in Pandas: A Guide With Examples - datacamp](https://www.datacamp.com/tutorial/loc-vs-iloc)
 
 #### 📄 Manual
 
@@ -106,6 +107,8 @@ Here are the articles to read before your upcoming session:
 #### 🗂️ Agenda
 - Handling data inconsistencies using Fuzzy Wuzzy
 
+[Data_Cleaning_Inconsistent_Data DA 5 - colab](https://colab.research.google.com/drive/1shTww6TRi7Qp6HYT9pcnUCwPKQkeELb5?usp=sharing)
+
 #### 📚 Reading Materials
 
 - [DataCamp Tutorial on Fuzzy String Matching](https://www.datacamp.com/tutorial/fuzzy-string-python)
@@ -114,3 +117,15 @@ Here are the articles to read before your upcoming session:
 #### 📄 Manual
 
 [FuzzyWuzzy - Manual](https://docs.google.com/document/d/1K4GZU_4vLaSWurdHmTGu5201xrR8sw386EwG1pv6aJg/edit?usp=sharing)
+
+---
+
+#### 📚 Reading Materials
+
+- [Using Matplotlib](https://matplotlib.org/stable/users/index)
+- [Building structured multi-plot grids - seaborn](https://seaborn.pydata.org/tutorial/axis_grids.html)
+
+#### Videos
+
+- [How to calculate interquartile range IQR | Data and statistics | 6th grade | Khan Academy](https://www.youtube.com/watch?v=qLYYHWYr8xI)
+
