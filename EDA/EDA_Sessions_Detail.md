@@ -12,7 +12,7 @@
 - [Data Explanation- Predicting Passenger Fare Strategies with Incomplete Data](https://docs.google.com/document/d/1jhWG_kGWr3waXeME5CgZzvLn-hb23Ny6o0QCi8_ECcM/edit?tab=t.0#heading=h.no7ob5ybbu2w)
 
 #### DataSet - Session 04
-- [pakistan_intellectual_capital.csv](https://classroom.google.com/c/NzcyODY3OTU5NDY1)
+- [pakistan_intellectual_capital.csv](https://drive.google.com/file/d/1ZtYpa7fgM0xwRnmcNqbj54hIjcwuEBnI/view)
 
 --- 
 
