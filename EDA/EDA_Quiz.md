@@ -2,7 +2,7 @@
 
 ---
 
-### Data Cleaning & Preprocessing Quiz - Session 03
+### Data Cleaning & Preprocessing - Quiz - Session 03
 
 #### 1. What is the primary purpose of handling missing values in a dataset?
 - To reduce data dimensionality  
@@ -36,7 +36,28 @@
 
 ---
 
-### Data Cleaning & Preprocessing Quiz - Answer - Session 03 
+### Fuzzy Wuzzy - Data Preprocessing - Quiz - Session 04
+
+#### 1. What is the primary purpose of using Fuzzy Wuzzy in data preprocessing?
+- To perform data visualization  
+- To detect outliers  
+- To handle missing values  
+- To handle data inconsistencies and fuzzy matching  
+
+#### 2. What is the name of the algorithm used by Fuzzy Wuzzy for fuzzy string matching?
+- Jaro-Winkler Distance  
+- Fuzzy Logic  
+- Ratio Algorithm  
+- Levenshtein Distance  
+
+#### 3. What is the benefit of using Fuzzy Wuzzy in data preprocessing?
+- It helps in handling exact string matches  
+- It helps in handling fuzzy string matches and data inconsistencies  
+- It helps in outlier detection  
+
+---
+
+### Data Cleaning & Preprocessing - Quiz - Answer - Session 03 
 
 #### 1. What is the primary purpose of handling missing values in a dataset?
 - To ensure data quality and accuracy  
@@ -52,5 +73,19 @@
 - Below Q1 and above Q3  (chatgpt answer)
 
 #### 5. What is the purpose of capping in outlier treatment?
-- To limit the extreme values to a certain threshold  
+- To limit the extreme values to a certain threshold
+
+---
+
+### Fuzzy Wuzzy - Data Preprocessing - Quiz - Answer - Session 04
+
+#### 1. What is the primary purpose of using Fuzzy Wuzzy in data preprocessing?
+- To handle data inconsistencies and fuzzy matching
+
+#### 2. What is the name of the algorithm used by Fuzzy Wuzzy for fuzzy string matching?
+- Levenshtein Distance
+
+#### 3. What is the benefit of using Fuzzy Wuzzy in data preprocessing?
+- It helps in handling fuzzy string matches and data inconsistencies
+
 
