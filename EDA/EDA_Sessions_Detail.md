@@ -4,6 +4,42 @@
 
 ---
 
+### EDA Session - 03
+
+**Data Cleaning: Handling Missing Values & Outliers**
+
+#### Handling Missing Values
+
+- Drop (rows or columns)
+- Fill
+  - Constant
+  - Mean
+  - Median
+  - Mode
+  - Forward / Backward Fill
+
+#### Outliers
+
+- Z-score Treatment
+- IQR Based Filtering
+- Capping
+
+#### Reading Materials
+
+Here are the articles to read before your upcoming session:
+
+- [Techniques to Handle Missing Data Values – DataCamp](https://www.datacamp.com/tutorial/techniques-to-handle-missing-data-values)
+- [Detect and Remove Outliers with Python – Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/05/feature-engineering-how-to-detect-and-remove-outliers-with-python-code/)
+- [Detect and Remove Outliers – GeeksforGeeks](https://www.geeksforgeeks.org/data-science/detect-and-remove-the-outliers-using-python/)
+
+#### Manual
+
+Access the session manual here:  
+[Google Docs Manual](https://docs.google.com/document/d/1JCHHlBiSLPiMyZ4-45UvNQS93lGphAKvIqHTJpRrF6A/edit?usp=sharing)
+
+
+---
+
 ### EDA Session - 04 
 
 **Fuzzy String Matching Resources**
