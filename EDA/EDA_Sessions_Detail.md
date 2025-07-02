@@ -2,6 +2,16 @@
  
 ### Tutorials
 
+### Tutorials
+     
+#### DataSet - Session 01
+- [Session 01 - ai_adoption_dataset.csv](https://drive.google.com/file/d/1lmy7rft7VupHYGTCUaF5otApgypBxMN_/view)
+
+#### DataSet - Session 02
+- [bus fare dataset.csv](https://drive.google.com/file/d/1N__LljTejnwT7CPNPykHnMGkUL-S1OWn/view)
+- [Data Explanation- Predicting Passenger Fare Strategies with Incomplete Data](https://docs.google.com/document/d/1jhWG_kGWr3waXeME5CgZzvLn-hb23Ny6o0QCi8_ECcM/edit?tab=t.0#heading=h.no7ob5ybbu2w)
+
+
 --- 
 
 ### EDA Session - 01
