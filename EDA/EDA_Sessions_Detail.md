@@ -4,12 +4,15 @@
 ### Tutorials
      
 #### DataSet - Session 01
-- [Session 01 - ai_adoption_dataset.csv](https://drive.google.com/file/d/1lmy7rft7VupHYGTCUaF5otApgypBxMN_/view)
+- [ai_adoption_dataset.csv](https://drive.google.com/file/d/1lmy7rft7VupHYGTCUaF5otApgypBxMN_/view)
+  
 
-#### DataSet - Session 02
+#### DataSet - Session 02 & 03
 - [bus fare dataset.csv](https://drive.google.com/file/d/1N__LljTejnwT7CPNPykHnMGkUL-S1OWn/view)
 - [Data Explanation- Predicting Passenger Fare Strategies with Incomplete Data](https://docs.google.com/document/d/1jhWG_kGWr3waXeME5CgZzvLn-hb23Ny6o0QCi8_ECcM/edit?tab=t.0#heading=h.no7ob5ybbu2w)
 
+#### DataSet - Session 04
+- [pakistan_intellectual_capital.csv](https://classroom.google.com/c/NzcyODY3OTU5NDY1)
 
 --- 
 
@@ -22,8 +25,10 @@
 - Basic Data Analysis  
 - GroupBy and Binning  
 
-[Case Study: Strategic AI Adoption Analysis for a Global Tech Consulting Firm
+- [Case Study: Strategic AI Adoption Analysis for a Global Tech Consulting Firm
 ](https://docs.google.com/document/d/1GlDBnUBARd05d7wI3s8--Gd6N-TYz-UNY57_AbxfRQ8/edit?tab=t.0#heading=h.8uk06pudub8a)
+
+- [EDA 1 - DA5 - colab](https://colab.research.google.com/drive/13dKBkN2U8FTEwLgogNSbvU590j1le9YG?usp=sharing)
 
 #### 📚 Reading Materials
 
