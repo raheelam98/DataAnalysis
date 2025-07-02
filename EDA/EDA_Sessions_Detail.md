@@ -24,6 +24,11 @@ Here are the articles to read before your upcoming session:
 - [How to Bin Numerical Columns into Groups Using Pandas – How.Dev](https://how.dev/answers/how-to-bin-numerical-columns-into-groups-using-pandas)
 - [A Comprehensive Guide to Data Analysis Using Pandas – Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/05/a-comprehensive-guide-to-data-analysis-using-pandas-hands-on-data-analysis-on-imdb-movies-data/)
 
+**Other Materials**
+
+- [AI Adoption](https://www.virtusa.com/digital-themes/ai-adoption)
+- [How Many Companies Use AI? (New 2025 Data)](https://explodingtopics.com/blog/companies-using-ai)
+
 #### 📄 Manual
 
 [Pandas Data Analysis - Reading Files, Basic Analysis, GroupBy, and Binning - Manual](https://docs.google.com/document/d/17NN5X31nj3Cxvm6lQgzZXYVJWdx1brwAXjVCHNUdsww/edit?usp=sharing)
