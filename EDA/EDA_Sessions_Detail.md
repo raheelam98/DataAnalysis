@@ -24,15 +24,17 @@ Here are the articles to read before your upcoming session:
 #### 📄 Manual
 
 Access the session manual here:  
-[Google Docs Manual](https://docs.google.com/document/d/17NN5X31nj3Cxvm6lQgzZXYVJWdx1brwAXjVCHNUdsww/edit?usp=sharing)
+[Pandas Data Analysis - Reading Files, Basic Analysis, GroupBy, and Binning - Manual](https://docs.google.com/document/d/17NN5X31nj3Cxvm6lQgzZXYVJWdx1brwAXjVCHNUdsww/edit?usp=sharing)
 
 ---
 
 ### EDA Session - 02
 
-#### 🔹 GroupBy and Binning
+#### 🗂️ Agenda
 
-#### 🔹 Handling Missing Values
+#### GroupBy and Binning
+
+#### Handling Missing Values
 
 - Drop (rows or columns)
 - Fill
@@ -52,7 +54,7 @@ Here are the articles to read before your upcoming session:
 #### 📄 Manual
 
 Access the session manual here:  
-[Google Docs Manual](https://docs.google.com/document/d/1V_aRot-8WZMiMArZQCJvRHhHYstP_MRh1q44sNLkEaE/edit?usp=sharing)
+[Handling Missing Values in Python (Pandas)- Manual](https://docs.google.com/document/d/1V_aRot-8WZMiMArZQCJvRHhHYstP_MRh1q44sNLkEaE/edit?usp=sharing)
 
 
 
@@ -61,6 +63,8 @@ Access the session manual here:
 ### EDA Session - 03
 
 **Data Cleaning: Handling Missing Values & Outliers**
+
+#### 🗂️ Agenda
 
 #### Handling Missing Values
 
@@ -80,29 +84,29 @@ Access the session manual here:
 
 #### Reading Materials
 
-Here are the articles to read before your upcoming session:
-
 - [Techniques to Handle Missing Data Values – DataCamp](https://www.datacamp.com/tutorial/techniques-to-handle-missing-data-values)
 - [Detect and Remove Outliers with Python – Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/05/feature-engineering-how-to-detect-and-remove-outliers-with-python-code/)
 - [Detect and Remove Outliers – GeeksforGeeks](https://www.geeksforgeeks.org/data-science/detect-and-remove-the-outliers-using-python/)
 
 #### Manual
 
-Access the session manual here:  
-[Google Docs Manual](https://docs.google.com/document/d/1JCHHlBiSLPiMyZ4-45UvNQS93lGphAKvIqHTJpRrF6A/edit?usp=sharing)
+[Outlier Detection and Treatment - Manual](https://docs.google.com/document/d/1JCHHlBiSLPiMyZ4-45UvNQS93lGphAKvIqHTJpRrF6A/edit?usp=sharing)
 
 
 ---
 
 ### EDA Session - 04 
 
-**Fuzzy String Matching Resources**
+**Fuzzy String Matching**
 
+#### 🗂️ Agenda
+- Handling data inconsistencies using Fuzzy Wuzzy
+
+#### Reading Materials
 
 - [DataCamp Tutorial on Fuzzy String Matching](https://www.datacamp.com/tutorial/fuzzy-string-python)
 - [GeeksforGeeks: FuzzyWuzzy Python Library](https://www.geeksforgeeks.org/python/fuzzywuzzy-python-library/)
 
-#### User Manual
+#### 📄 Manual
 
-Please find the FuzzyWuzzy user manual here:  
-https://docs.google.com/document/d/1K4GZU_4vLaSWurdHmTGu5201xrR8sw386EwG1pv6aJg/edit?usp=sharing
+[FuzzyWuzzy - Manual](https://docs.google.com/document/d/1K4GZU_4vLaSWurdHmTGu5201xrR8sw386EwG1pv6aJg/edit?usp=sharing)
