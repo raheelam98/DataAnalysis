@@ -23,7 +23,6 @@ Here are the articles to read before your upcoming session:
 
 #### 📄 Manual
 
-Access the session manual here:  
 [Pandas Data Analysis - Reading Files, Basic Analysis, GroupBy, and Binning - Manual](https://docs.google.com/document/d/17NN5X31nj3Cxvm6lQgzZXYVJWdx1brwAXjVCHNUdsww/edit?usp=sharing)
 
 ---
@@ -46,17 +45,12 @@ Access the session manual here:
 
 #### 📚 Reading Materials
 
-Here are the articles to read before your upcoming session:
-
 - [Techniques to Handle Missing Data Values – DataCamp](https://www.datacamp.com/tutorial/techniques-to-handle-missing-data-values)
 - [Master Data Binning in Python Using Pandas – Train in Data](https://www.blog.trainindata.com/master-data-binning-in-python-using-pandas/)
 
 #### 📄 Manual
 
-Access the session manual here:  
 [Handling Missing Values in Python (Pandas)- Manual](https://docs.google.com/document/d/1V_aRot-8WZMiMArZQCJvRHhHYstP_MRh1q44sNLkEaE/edit?usp=sharing)
-
-
 
 ---
 
@@ -82,7 +76,7 @@ Access the session manual here:
 - IQR Based Filtering
 - Capping
 
-#### Reading Materials
+#### 📚 Reading Materials
 
 - [Techniques to Handle Missing Data Values – DataCamp](https://www.datacamp.com/tutorial/techniques-to-handle-missing-data-values)
 - [Detect and Remove Outliers with Python – Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/05/feature-engineering-how-to-detect-and-remove-outliers-with-python-code/)
@@ -102,7 +96,7 @@ Access the session manual here:
 #### 🗂️ Agenda
 - Handling data inconsistencies using Fuzzy Wuzzy
 
-#### Reading Materials
+#### 📚 Reading Materials
 
 - [DataCamp Tutorial on Fuzzy String Matching](https://www.datacamp.com/tutorial/fuzzy-string-python)
 - [GeeksforGeeks: FuzzyWuzzy Python Library](https://www.geeksforgeeks.org/python/fuzzywuzzy-python-library/)
