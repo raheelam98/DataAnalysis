@@ -5,6 +5,8 @@
      
 #### DataSet - Session 01
 - [ai_adoption_dataset.csv](https://drive.google.com/file/d/1lmy7rft7VupHYGTCUaF5otApgypBxMN_/view)
+- [Case Study: Strategic AI Adoption Analysis for a Global Tech Consulting Firm
+](https://docs.google.com/document/d/1GlDBnUBARd05d7wI3s8--Gd6N-TYz-UNY57_AbxfRQ8/edit?tab=t.0#heading=h.8uk06pudub8a)
   
 
 #### DataSet - Session 02 & 03
