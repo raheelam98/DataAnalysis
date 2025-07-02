@@ -13,6 +13,9 @@
 - Basic Data Analysis  
 - GroupBy and Binning  
 
+[Case Study: Strategic AI Adoption Analysis for a Global Tech Consulting Firm
+](https://docs.google.com/document/d/1GlDBnUBARd05d7wI3s8--Gd6N-TYz-UNY57_AbxfRQ8/edit?tab=t.0#heading=h.8uk06pudub8a)
+
 #### 📚 Reading Materials
 
 Here are the articles to read before your upcoming session:
