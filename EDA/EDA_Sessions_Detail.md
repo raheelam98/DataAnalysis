@@ -2,6 +2,30 @@
 
 ### Tutorials
 
+--- 
+
+### EDA Session - 01
+
+#### 🗂️ Agenda
+
+- Pandas Data Analysis  
+- Reading from Files  
+- Basic Data Analysis  
+- GroupBy and Binning  
+
+#### 📚 Reading Materials
+
+Here are the articles to read before your upcoming session:
+
+- [Master Data Binning in Python Using Pandas – Train in Data](https://www.blog.trainindata.com/master-data-binning-in-python-using-pandas/)
+- [How to Bin Numerical Columns into Groups Using Pandas – How.Dev](https://how.dev/answers/how-to-bin-numerical-columns-into-groups-using-pandas)
+- [A Comprehensive Guide to Data Analysis Using Pandas – Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/05/a-comprehensive-guide-to-data-analysis-using-pandas-hands-on-data-analysis-on-imdb-movies-data/)
+
+#### 📄 Manual
+
+Access the session manual here:  
+[Google Docs Manual](https://docs.google.com/document/d/17NN5X31nj3Cxvm6lQgzZXYVJWdx1brwAXjVCHNUdsww/edit?usp=sharing)
+
 ---
 
 ### EDA Session - 02
