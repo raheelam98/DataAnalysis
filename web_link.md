@@ -13,5 +13,4 @@
 
 - [Berjees Shaikh - linkedin](https://www.linkedin.com/in/berjeesshaikh/) 
 
-- Mr. Zain Mobeen, an astrophysicist at the Nicolaus Copernicus Astronomical Center.
-[Muhammad Zain Mobeen - linkedin](https://www.linkedin.com/in/muhammad-zain-mobeen-b69a2b22b/)
+- [Muhammad Zain Mobeen - linkedin](https://www.linkedin.com/in/muhammad-zain-mobeen-b69a2b22b/) Mr. Zain Mobeen, an astrophysicist at the Nicolaus Copernicus Astronomical Center.
