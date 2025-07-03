@@ -20,10 +20,6 @@
 
 [Predicting Passenger Fare Strategies with Incomplete Data](https://docs.google.com/document/d/1jhWG_kGWr3waXeME5CgZzvLn-hb23Ny6o0QCi8_ECcM/edit?tab=t.0#heading=h.m6546tbzrq1l)
 
-**EDA Session 02 - Google Colab**
-
-[DA5 Missing values and outliers.ipynb](https://colab.research.google.com/drive/1GCWi4mCn4R5Mvak7upCPxU4Eka-08ceO?usp=sharing&authuser=0)
-
 **EDA Session 02 - DataSet**
 
 [bus fare dataset.csv](https://drive.google.com/file/d/1N__LljTejnwT7CPNPykHnMGkUL-S1OWn/view)
@@ -41,6 +37,10 @@
 **EDA Session 03 - DataSet**
 
 [bus fare dataset.csv](https://drive.google.com/file/d/1N__LljTejnwT7CPNPykHnMGkUL-S1OWn/view)
+
+**EDA Session 03 - Google Colab**
+
+[DA5 Missing values and outliers.ipynb](https://colab.research.google.com/drive/1GCWi4mCn4R5Mvak7upCPxU4Eka-08ceO?usp=sharing&authuser=0)
 
 --- 
 
