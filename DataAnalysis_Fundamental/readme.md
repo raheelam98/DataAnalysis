@@ -1,4 +1,87 @@
-## DataAnalysis_Fundamental
+## DataAnalysis
+
+
+#### Data Literacy
+
+A collection of facts, figures, and statistics collected and stored for reference and analysis.
+
+#### Statistical Foundations
+
+Statistical foundations provide the basic principles and methods for collecting, analyzing, interpreting, and presenting data.
+
+**Key Concepts:**
+- **Population and Sample**:  
+  Population is the entire group you want to draw conclusions about, while a sample is a subset of the population.  
+
+- **Variables**:  
+  Characteristics or properties that can take on different values (e.g., age, income, temperature).  
+
+- **Scales of Measurement**:  
+  Nominal, ordinal, interval, and ratio scales used to classify data.  
+
+
+#### Descriptive Statistics
+
+Descriptive statistics summarize and describe the main features of a dataset.
+
+**Key Measures:**
+- **Central Tendency**:  
+  Mean (average), median (middle value), and mode (most frequent value).  
+
+- **Dispersion**:  
+  Range (difference between highest and lowest values), variance (measure of variability), and standard deviation (average amount by which values differ from the mean).  
+
+- **Visualization**:  
+  Using charts and graphs like histograms, bar charts, and box plots to visualize data distribution and patterns.  
+
+#### Data Analysis
+
+Inspecting, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making.
+
+#### EDA (Exploratory Data Analysis)
+
+1. Explore the data to understand the structure (columns and values)  
+2. List down anomalies:  
+   - Missing values  
+   - Duplicates  
+   - Text inconsistency (e.g., "Yes" or "Y")  
+   - Outliers  
+   - Data types (e.g., "15 years" → remove "years")  
+3. Handle the anomalies (data preprocessing, cleaning, preparation)  
+
+
+#### Analysis
+
+**Data Analysis Steps:**
+
+1. Data Collection  
+2. Understand the data  
+3. List down the anomalies  
+4. Handle anomalies  
+5. Perform analysis  
+6. Visualize / report to present insights or key findings  
+
+#### Types of Analysis
+
+**1. Descriptive Analysis**  
+- Summer revenue is higher than winter  
+- Summer collection is higher in volume  
+
+**2. Diagnostic Analysis**  
+- Relationship between products and sales  
+- Higher summer collection leads to higher summer sales  
+
+**3. Predictive Analysis**  
+- *Question*: If I increase the winter collection or add more variety, what will happen?  
+  - *Prediction*: Winter sales will increase  
+
+**4. Prescriptive Analysis**  
+- *Recommendation*: Add more winter collection to your store  
+
+---
+
+
+---
 
 [What is Data Analysis? An Expert Guide With Examples](https://www.datacamp.com/blog/what-is-data-analysis-expert-guide?authuser=0)
 
