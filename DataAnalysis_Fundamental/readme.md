@@ -1,5 +1,6 @@
 ## DataAnalysis_Fundamental
 
+[What is Data Analysis? An Expert Guide With Examples](https://www.datacamp.com/blog/what-is-data-analysis-expert-guide?authuser=0)
 
 #### 📘 What is Data Analytics?
 
