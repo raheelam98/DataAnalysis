@@ -1,11 +1,18 @@
 ## DataAnalysis
 
 
-#### Data Literacy
+### Data Literacy
 
 A collection of facts, figures, and statistics collected and stored for reference and analysis.
 
-#### Statistical Foundations
+[Why Need Data](https://github.com/raheelam98/DataAnalysis/blob/main/DataAnalysis_Fundamental/Data_Literacy_image/1-%20why%20need%20data.png)
+
+[Qualitative vs quantitative data](https://github.com/raheelam98/DataAnalysis/blob/main/DataAnalysis_Fundamental/Data_Literacy_image/2-%20qualitative%20-%20quantitative%20data.png)
+
+[Data Literacy Skill](https://github.com/raheelam98/DataAnalysis/blob/main/DataAnalysis_Fundamental/Data_Literacy_image/3-%20data%20literacy%20skill.png)
+
+
+### Statistical Foundations
 
 Statistical foundations provide the basic principles and methods for collecting, analyzing, interpreting, and presenting data.
 
@@ -20,7 +27,7 @@ Statistical foundations provide the basic principles and methods for collecting,
   Nominal, ordinal, interval, and ratio scales used to classify data.  
 
 
-#### Descriptive Statistics
+### Descriptive Statistics
 
 Descriptive statistics summarize and describe the main features of a dataset.
 
@@ -34,11 +41,15 @@ Descriptive statistics summarize and describe the main features of a dataset.
 - **Visualization**:  
   Using charts and graphs like histograms, bar charts, and box plots to visualize data distribution and patterns.  
 
-#### Data Analysis
+[data Skill](https://github.com/raheelam98/DataAnalysis/blob/main/DataAnalysis_Fundamental/Data_Literacy_image/4-%20data%20skill.png)
+
+## Data Analysis
 
 Inspecting, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making.
 
-#### EDA (Exploratory Data Analysis)
+[Data Analysis Process](https://github.com/raheelam98/DataAnalysis/blob/main/DataAnalysis_Fundamental/Data_Literacy_image/5-%20data%20analysis%20process.png)
+
+### EDA (Exploratory Data Analysis)
 
 1. Explore the data to understand the structure (columns and values)  
 2. List down anomalies:  
@@ -49,8 +60,9 @@ Inspecting, cleaning, transforming, and modeling data to discover useful informa
    - Data types (e.g., "15 years" → remove "years")  
 3. Handle the anomalies (data preprocessing, cleaning, preparation)  
 
+[Type of Data Analysis](https://github.com/raheelam98/DataAnalysis/blob/main/DataAnalysis_Fundamental/Data_Literacy_image/6-%20type%20of%20data%20analysis.png)
 
-#### Analysis
+### Analysis
 
 **Data Analysis Steps:**
 
@@ -77,9 +89,6 @@ Inspecting, cleaning, transforming, and modeling data to discover useful informa
 
 **4. Prescriptive Analysis**  
 - *Recommendation*: Add more winter collection to your store  
-
----
-
 
 ---
 
