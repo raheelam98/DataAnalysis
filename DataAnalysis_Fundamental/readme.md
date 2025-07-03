@@ -7,12 +7,12 @@ A collection of facts, figures, and statistics collected and stored for referenc
 [Why Need Data](https://github.com/raheelam98/DataAnalysis/blob/main/DataAnalysis_Fundamental/Data_Literacy_image/1-%20why%20need%20data.png)
 
 #### Qualitative vs Quantitative Data
-- Qualitative Data
-    - Continuous (Infinite values with a range e.g. height, weght)
-    - Discrete (Finte values with a range e.g. shoe size)
-- Quantitative Data
-     - Normal (Labels or Categories e.g. blood type, gender)
-     - Ordinal (Ranked Categories e.g. grades A - F, satisfaction rating)
+- **Qualitative Data**
+    - **Continuous :** (Infinite values with a range e.g. height, weght)
+    - **Discrete  :** (Finte values with a range e.g. shoe size)
+- **Quantitative Data**
+     - **Normal  :** (Labels or Categories e.g. blood type, gender)
+     - **Ordinal  :** (Ranked Categories e.g. grades A - F, satisfaction rating)
 
 [Qualitative vs Quantitative Data](https://github.com/raheelam98/DataAnalysis/blob/main/DataAnalysis_Fundamental/Data_Literacy_image/2-%20qualitative%20-%20quantitative%20data.png)
 
@@ -31,13 +31,10 @@ Statistical foundations provide the basic principles and methods for collecting,
 **Key Concepts:**
 - **Population and Sample**:  
   Population is the entire group you want to draw conclusions about, while a sample is a subset of the population.  
-
 - **Variables**:  
   Characteristics or properties that can take on different values (e.g., age, income, temperature).  
-
 - **Scales of Measurement**:  
   Nominal, ordinal, interval, and ratio scales used to classify data.  
-
 
 ### Descriptive Statistics
 
@@ -46,18 +43,22 @@ Descriptive statistics summarize and describe the main features of a dataset.
 **Key Measures:**
 - **Central Tendency**:  
   Mean (average), median (middle value), and mode (most frequent value).  
-
 - **Dispersion**:  
   Range (difference between highest and lowest values), variance (measure of variability), and standard deviation (average amount by which values differ from the mean).  
-
 - **Visualization**:  
-  Using charts and graphs like histograms, bar charts, and box plots to visualize data distribution and patterns.  
+  Using charts and graphs like histograms, bar charts, and box plots to visualize data distribution and patterns.
 
-[data Skill](https://github.com/raheelam98/DataAnalysis/blob/main/DataAnalysis_Fundamental/Data_Literacy_image/4-%20data%20skill.png)
+ #### Data Skill 
+ - Data Analysis, Data Scientist, Data Engineer
+
+[Data Skill](https://github.com/raheelam98/DataAnalysis/blob/main/DataAnalysis_Fundamental/Data_Literacy_image/4-%20data%20skill.png)
 
 ## Data Analysis
 
 Inspecting, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making.
+
+#### Data Analysis Process
+- Business Questions -> Get Data -> Explore Data -> Prepare Data -> Analyze Data -> Present Findings
 
 [Data Analysis Process](https://github.com/raheelam98/DataAnalysis/blob/main/DataAnalysis_Fundamental/Data_Literacy_image/5-%20data%20analysis%20process.png)
 
@@ -71,8 +72,6 @@ Inspecting, cleaning, transforming, and modeling data to discover useful informa
    - Outliers  
    - Data types (e.g., "15 years" → remove "years")  
 3. Handle the anomalies (data preprocessing, cleaning, preparation)  
-
-[Type of Data Analysis](https://github.com/raheelam98/DataAnalysis/blob/main/DataAnalysis_Fundamental/Data_Literacy_image/6-%20type%20of%20data%20analysis.png)
 
 ### Analysis
 
@@ -100,7 +99,9 @@ Inspecting, cleaning, transforming, and modeling data to discover useful informa
   - *Prediction*: Winter sales will increase  
 
 **4. Prescriptive Analysis**  
-- *Recommendation*: Add more winter collection to your store  
+- *Recommendation*: Add more winter collection to your store
+
+[Type of Data Analysis](https://github.com/raheelam98/DataAnalysis/blob/main/DataAnalysis_Fundamental/Data_Literacy_image/6-%20type%20of%20data%20analysis.png)  
 
 ---
 
