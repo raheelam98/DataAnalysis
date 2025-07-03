@@ -3,11 +3,12 @@
 **Chapter 1**
 
 [Statistics in Data Science](https://github.com/raheelam98/DataAnalysis/blob/main/Statistics/Statistics_images/sec-00-%20Statistics%20in%20Data%20Science.png)
+
 **Statistics**
 • Descriptive Stats
 • Inferential Stats
 
-[Statistics In Data Science - Presentation]()
+[Statistics In Data Science - Presentation](https://github.com/raheelam98/DataAnalysis/blob/main/Statistics/Statistics_images/sec-01%20-%20descriptive%20-%20inferential.png)
 
 [Introduction to Statistics](https://drive.google.com/file/d/1vp2MtSAmp8giUNNn6Cvq55SLNFr9j1X6/view) 
 
