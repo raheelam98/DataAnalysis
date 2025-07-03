@@ -8,6 +8,8 @@
 
 **EDA Session 01 - Google Colab**
 
+[EDA 1 - DA5.ipynb](https://colab.research.google.com/drive/13dKBkN2U8FTEwLgogNSbvU590j1le9YG?usp=sharing)
+
 **EDA Session 01 - DataSet**
 
 [ai_adoption_dataset.csv](https://drive.google.com/file/d/1lmy7rft7VupHYGTCUaF5otApgypBxMN_/view)
@@ -29,8 +31,6 @@
 ### EDA Session 03
 
 **EDA Session 03 - Google Colab**
-
-[DA5 Missing values and outliers.ipynb](https://colab.research.google.com/drive/1GCWi4mCn4R5Mvak7upCPxU4Eka-08ceO?usp=sharing&authuser=0)
 
 [Outlier Detection and Treatment](https://docs.google.com/document/d/1JCHHlBiSLPiMyZ4-45UvNQS93lGphAKvIqHTJpRrF6A/edit?tab=t.0)
 
