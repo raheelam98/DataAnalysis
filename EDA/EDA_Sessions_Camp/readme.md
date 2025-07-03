@@ -1,4 +1,4 @@
-## EDA Sessions Camp
+## EDA Sessions Camp 
 
 ### EDA Session 01  - AI Adoption
 
