@@ -63,6 +63,7 @@
 **Example:**
 
 Monthly Sales: $5000, $6000, $7000, $8000, $9000
+
 Mean Sales = (5000 + 6000 + 7000 + 8000 + 9000) / 5
 
 - **Why It’s Important**: Serves as a baseline for model predictions, like sales forecasting
@@ -75,6 +76,7 @@ Mean Sales = (5000 + 6000 + 7000 + 8000 + 9000) / 5
 **Example:**
 
 Salary: $30K, $50K, $75K, $100K, $200K
+
 Median Salary = $75K
 
 - **Why It’s Important**: Ideal for income/property data with common outliers
@@ -87,6 +89,7 @@ Median Salary = $75K
 **Example:**
 
 Survey Ratings: 1, 2, 3, 4, 4, 4, 5
+
 Mode = 4
 
 - **Why It’s Important**: Critical for understanding customer preferences
@@ -118,6 +121,7 @@ Mode = 4
 **Example:**
 
 Product Prices: $50, $100, $200, $500
+
 Range = $500 - $50 = $450
 
 - **Why It’s Important**: Useful for identifying outliers
@@ -143,8 +147,11 @@ Variance = 66.67
 **Example:**
 
 Monthly Sales: $10, $20, $30
+
 Mean = $20
+
 Variance = 66.67
+
 Std Dev ≈ $8.16
 
 - **Why It’s Important**: Evaluates predictions and data precision
@@ -223,6 +230,7 @@ Advertising Spend ($) vs Sales ($)
 **Example:**
 
 Housing Prices: $50K, $150K, $200K, $1M
+
 → Positive skew (right-tailed)
 
 - **Why It’s Important**: Key for risk assessment and anomaly handling
