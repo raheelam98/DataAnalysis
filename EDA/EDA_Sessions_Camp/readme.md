@@ -4,6 +4,8 @@
 
 [Pandas Data Analysis - Reading Files, Basic Analysis, GroupBy, and Binning - Manual](https://docs.google.com/document/d/17NN5X31nj3Cxvm6lQgzZXYVJWdx1brwAXjVCHNUdsww/edit?tab=t.0#heading=h.c3mg2jdxfvc8)
 
+**DataSet Explanation - Case Study**
+
 [Case Study: Strategic AI Adoption Analysis for a Global Tech Consulting Firm](https://docs.google.com/document/d/1GlDBnUBARd05d7wI3s8--Gd6N-TYz-UNY57_AbxfRQ8/edit?tab=t.0#heading=h.8uk06pudub8a)
 
 **EDA Session 01 - Google Colab**
@@ -20,9 +22,11 @@
 
 [Handling Missing Values in Python (Pandas) - Manual](https://docs.google.com/document/d/1V_aRot-8WZMiMArZQCJvRHhHYstP_MRh1q44sNLkEaE/edit?tab=t.0#heading=h.oybejbvm9q3x)
 
+**DataSet Explanation**
+
 [Predicting Passenger Fare Strategies with Incomplete Data](https://docs.google.com/document/d/1jhWG_kGWr3waXeME5CgZzvLn-hb23Ny6o0QCi8_ECcM/edit?tab=t.0#heading=h.m6546tbzrq1l)
 
-**EDA Session 02 - DataSet**
+**EDA Session 02 & 03 - DataSet**
 
 [bus fare dataset.csv](https://drive.google.com/file/d/1N__LljTejnwT7CPNPykHnMGkUL-S1OWn/view)
 
@@ -30,9 +34,9 @@
 
 ### EDA Session 03
 
-[Outlier Detection and Treatment](https://docs.google.com/document/d/1JCHHlBiSLPiMyZ4-45UvNQS93lGphAKvIqHTJpRrF6A/edit?tab=t.0)
+[Outlier Detection and Treatment - Manual](https://docs.google.com/document/d/1JCHHlBiSLPiMyZ4-45UvNQS93lGphAKvIqHTJpRrF6A/edit?tab=t.0)
 
-**EDA Session 03 - DataSet**
+**EDA Session 02 & 03 - DataSet**
 
 [bus fare dataset.csv](https://drive.google.com/file/d/1N__LljTejnwT7CPNPykHnMGkUL-S1OWn/view)
 
