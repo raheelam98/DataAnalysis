@@ -36,7 +36,7 @@
 - Which offer increases conversions?  
 
 #### Descriptive vs Inferential
-[Descriptive - Inferential.png](https://github.com/raheelam98/DataAnalysis/blob/main/Statistics/Statistics_images/sec-01%20-%20descriptive%20-%20inferential.png)
+[Descriptive - Inferential](https://github.com/raheelam98/DataAnalysis/blob/main/Statistics/Statistics_images/sec-01%20-%20descriptive%20-%20inferential.png)
 
 ---
 
