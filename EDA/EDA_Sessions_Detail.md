@@ -120,7 +120,8 @@ Here are the articles to read before your upcoming session:
 
 #### Manual
 
-[Outlier Detection and Treatment - Manual](https://docs.google.com/document/d/1JCHHlBiSLPiMyZ4-45UvNQS93lGphAKvIqHTJpRrF6A/edit?usp=sharing)
+- [Outlier Detection and Treatment - Manual](https://docs.google.com/document/d/1JCHHlBiSLPiMyZ4-45UvNQS93lGphAKvIqHTJpRrF6A/edit?usp=sharing)
+- [DA 5 Missing Values and outlier.pptx](https://drive.google.com/file/d/1HaQwIRq4CllIti5i6heJHv3qcmcOYen1/view)
 
 
 ---
