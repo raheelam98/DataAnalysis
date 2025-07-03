@@ -36,6 +36,8 @@
 
 [DA5 Missing values and outliers.ipynb](https://colab.research.google.com/drive/1GCWi4mCn4R5Mvak7upCPxU4Eka-08ceO?usp=sharing&authuser=0)
 
+[Outlier Detection and Treatment](https://docs.google.com/document/d/1JCHHlBiSLPiMyZ4-45UvNQS93lGphAKvIqHTJpRrF6A/edit?tab=t.0)
+
 **EDA Session 03 - DataSet**
 
 [bus fare dataset.csv](https://drive.google.com/file/d/1N__LljTejnwT7CPNPykHnMGkUL-S1OWn/view)
