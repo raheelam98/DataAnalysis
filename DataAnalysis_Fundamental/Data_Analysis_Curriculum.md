@@ -1,6 +1,5 @@
 # Data Analytics Bootcamp Curriculum
 
----
 
 ### Module: Introduction to Data Analysis using Excel Foundation
 
@@ -244,7 +243,7 @@
 
 ---
 
-### Module: EDA and Machine Learning
+### Module: Exploratory Data Analysis (EDA) and Machine Learning
 
 #### Session: Introduction & Missing Value Analysis
 - EDA overview and importance  
