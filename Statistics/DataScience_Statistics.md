@@ -162,7 +162,7 @@ Std Dev ≈ $8.16
 
 (The sales figures deviate from the mean by $8.16 or $8)
 
-[sec-03 - standard deviation.png](https://github.com/raheelam98/DataAnalysis/blob/main/Statistics/Statistics_images/sec-03%20-%20standard%20deviation.png)
+[Standard Deviation](https://github.com/raheelam98/DataAnalysis/blob/main/Statistics/Statistics_images/sec-03%20-%20standard%20deviation.png)
 
 - **Why It’s Important**: Evaluates predictions and data precision
 
@@ -196,7 +196,8 @@ Histogram shows the frequency of sales in each price range
 
 - **Why It’s Important**: Essential for EDA , and understanding data distribution before modeling
 
-[sec-04 - histograms.png](https://github.com/raheelam98/DataAnalysis/blob/main/Statistics/Statistics_images/sec-04%20-%20histograms.png)
+[Histograms](https://github.com/raheelam98/DataAnalysis/blob/main/Statistics/Statistics_images/sec-04%20-%20histograms.png)
+
 #### Boxplots
 
 - Summarizes data distribution, median, quartiles, and outliers  
@@ -210,7 +211,7 @@ Data: {10, 20, 30, 40, 50}
 
 - **Why It’s Important**: Critical for data cleaning
 
-[sec-04 - boxplots.png](https://github.com/raheelam98/DataAnalysis/blob/main/Statistics/Statistics_images/sec-04%20-%20boxplots.png)
+[Boxplots](https://github.com/raheelam98/DataAnalysis/blob/main/Statistics/Statistics_images/sec-04%20-%20boxplots.png)
 
 #### Scatterplots
 
@@ -223,7 +224,7 @@ Advertising Spend ($) vs Sales ($)
 
 - **Why It’s Important**: Key for feature selection and trend analysis
 
-[sec-04 - scatter plots.png](https://github.com/raheelam98/DataAnalysis/blob/main/Statistics/Statistics_images/sec-04%20-%20scatter%20plots.png)
+[Scatter Plots](https://github.com/raheelam98/DataAnalysis/blob/main/Statistics/Statistics_images/sec-04%20-%20scatter%20plots.png)
 
 ---
 
@@ -254,7 +255,7 @@ Housing Prices: $50K, $150K, $200K, $1M
 
 - **Why It’s Important**: Indicates need for transformation before modeling
 
-[sec-05 - skewnes.png](https://github.com/raheelam98/DataAnalysis/blob/main/Statistics/Statistics_images/sec-05%20-%20skewnes.png)
+[Skewnes](https://github.com/raheelam98/DataAnalysis/blob/main/Statistics/Statistics_images/sec-05%20-%20skewnes.png)
 
 #### Kurtosis
 
@@ -268,9 +269,9 @@ Stock Returns: 5%, -2%, 10%, 3%, 30%
 
 - **Why It’s Important**: Key for risk assessment and anomaly handling
 
-[sec-05 - kurtosis.png](https://github.com/raheelam98/DataAnalysis/blob/main/Statistics/Statistics_images/sec-05%20-%20kurtosis.png)
+[Kurtosis](https://github.com/raheelam98/DataAnalysis/blob/main/Statistics/Statistics_images/sec-05%20-%20kurtosis.png)
 
----
+
 
 
 
