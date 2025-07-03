@@ -1,9 +1,8 @@
-## periodogram
-
+## lightcurves.py
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Jul  1 11:52:35 2025
+Created on Mon Jun 23 14:04:12 2025
 
 @author: zainmobeen
 """
@@ -11,48 +10,55 @@ Created on Tue Jul  1 11:52:35 2025
 import numpy as np
 import matplotlib.pyplot as plt
 
-#data = np.genfromtxt('/Users/zainmobeen/Downloads/OGLE-BLG-CEP-024.dat.txt', delimiter='', usecols=(0,1,2), dtype=float, invalid_raise=False)
-#data = np.genfromtxt('/Users/zainmobeen/Downloads/OGLE-LMC-ECL-32098.dat.txt', delimiter='', usecols=(0,1,2), dtype=float, invalid_raise=False)
+# Use genfromtxt to allow for non-numeric data
 data = np.genfromtxt('/Users/zainmobeen/Downloads/OGLE-LMC-CEP-1237.dat.txt', delimiter='', usecols=(0,1,2), dtype=float, invalid_raise=False)
+#data = np.genfromtxt('/Users/zainmobeen/Downloads/OGLE-BLG-CEP-024.dat.txt', delimiter='', usecols=(0,1,2), dtype=float, invalid_raise=False)
+
+
+# Remove rows with NaN values (caused by strings in 'mag' column)
+#data = data[~np.isnan(data[:, 1])]
 
 MJD = data[:, 0]
 mag = data[:, 1]
-err=  data[:,2]
-#period=10.3    #for CEP1237
+period=12.0    #for CEP1237
 #period=0.36     #for CEP24
-from astropy.timeseries import LombScargle
+
+phase = ((MJD - MJD[0]) % period) / period
+
+sorted_indices = np.argsort(phase)
+phase_sorted = phase[sorted_indices]
+mag_sorted = mag[sorted_indices]
 
 
-#min_period = 0.1     # days
-#max_period = 0.5    # days
+def moving_average(x, y, window_size):
+    smoothed_x = []
+    smoothed_y = []
+    half_window = window_size // 2
 
-min_period = 10     # days
-max_period = 15    # days
+    for i in range(half_window, len(y) - half_window):
+        window_x = x[i]
+        window_y = y[i - half_window : i + half_window + 1]
+        smoothed_x.append(window_x)
+        smoothed_y.append(np.mean(window_y))
+
+    return np.array(smoothed_x), np.array(smoothed_y)
 
 
-min_frequency = 1 / max_period
-max_frequency = 1 / min_period
+window_size = 50  # Try 10–50 to see different smoothness
+phase_ma, mag_ma = moving_average(phase_sorted, mag_sorted, window_size)
 
-# --- Compute Lomb-Scargle periodogram ---
-ls = LombScargle(MJD, mag, err)
-frequency, power = ls.autopower(minimum_frequency=min_frequency,
-                                maximum_frequency=max_frequency)
 
-# --- Convert frequency to period ---
-period = 1 / frequency
+phase_double = np.concatenate([phase_sorted, phase_sorted + 1])
+mag_double = np.concatenate([mag_sorted, mag_sorted])
+phase_mad, mag_mad = moving_average(phase_double, mag_double, window_size)
 
-# --- Plot ---
-plt.figure(figsize=(10, 6))
-plt.plot(period, power)
-plt.xlabel("Period (days)")
-plt.ylabel("Power")
-plt.title("Lomb-Scargle Periodogram")
-plt.grid(True)
-plt.xlim(min_period, max_period)
-plt.gca().invert_xaxis()  # Optional: short periods on right
+
+#plt.plot(phase_sorted, mag_sorted, 'b.')
+#plt.plot(phase_ma, mag_ma, 'b.')
+plt.plot(phase_mad,mag_mad, 'b.')
+plt.xlabel('MJD')
+plt.ylabel('Magnitude')
+plt.gca().invert_yaxis()  # optional for astronomy
+plt.title('Magnitude vs MJD')
 plt.show()
-
-# --- Best period ---
-#best_period = period[np.argmax(power)]
-#print(f"Best period: {best_period:.4f} days")
 
