@@ -6,7 +6,20 @@ A collection of facts, figures, and statistics collected and stored for referenc
 
 [Why Need Data](https://github.com/raheelam98/DataAnalysis/blob/main/DataAnalysis_Fundamental/Data_Literacy_image/1-%20why%20need%20data.png)
 
-[Qualitative vs quantitative data](https://github.com/raheelam98/DataAnalysis/blob/main/DataAnalysis_Fundamental/Data_Literacy_image/2-%20qualitative%20-%20quantitative%20data.png)
+#### Qualitative vs Quantitative Data
+- Qualitative Data
+    - Continuous (Infinite values with a range e.g. height, weght)
+    - Discrete (Finte values with a range e.g. shoe size)
+- Quantitative Data
+     - Normal (Labels or Categories e.g. blood type, gender)
+     - Ordinal (Ranked Categories e.g. grades A - F, satisfaction rating)
+
+[Qualitative vs Quantitative Data](https://github.com/raheelam98/DataAnalysis/blob/main/DataAnalysis_Fundamental/Data_Literacy_image/2-%20qualitative%20-%20quantitative%20data.png)
+
+#### Data Literacy Skill
+- **Non-Technical  :** Communication, Domain Knowledge, Research, Critical Thinking  )   
+- **Technical  :**  Analysis, Visulization, Management, Programming Language
+  
 
 [Data Literacy Skill](https://github.com/raheelam98/DataAnalysis/blob/main/DataAnalysis_Fundamental/Data_Literacy_image/3-%20data%20literacy%20skill.png)
 
