@@ -30,8 +30,6 @@
 
 ### EDA Session 03
 
-**EDA Session 03 - Google Colab**
-
 [Outlier Detection and Treatment](https://docs.google.com/document/d/1JCHHlBiSLPiMyZ4-45UvNQS93lGphAKvIqHTJpRrF6A/edit?tab=t.0)
 
 **EDA Session 03 - DataSet**
