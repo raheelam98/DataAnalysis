@@ -5,13 +5,13 @@
 - Predict what might happen next
 
 ---
-
+ 
 #### Session 01
 
 ### Types of Statistics in Data Science
 
-- **Descriptive Statistics**: What’s happening?  
-- **Inferential Statistics**: What’s likely to happen next?
+- **Descriptive Statistics**: Understand Data - What’s happening?  
+- **Inferential Statistics**: Predict From Data - What’s likely to happen next?
 
 #### Descriptive Statistics – Understanding the Data
 
@@ -27,11 +27,11 @@
 
 #### Real-World Example – Amazon
 
-**Descriptive:**
+**Descriptive :** Understand Data
 - Average order value  
 - Most-viewed products  
 
-**Inferential:**
+**Inferential :** Predict From Data
 - Will a user buy again next week?  
 - Which offer increases conversions?  
 
