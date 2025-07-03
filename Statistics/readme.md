@@ -1,5 +1,9 @@
 ## Statistics
 
+**Chapter 1**
+
+[Statistics in Data Science](https://docs.google.com/spreadsheets/d/1e05Hk_VWXLGr9BrrKBpqG2jF2zdEZ-inMd4Ahx1-FCc/edit?gid=0#gid=0)
+
 **Statistics**
 • Descriptive Stats
 • Inferential Stats
