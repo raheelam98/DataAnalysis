@@ -37,7 +37,7 @@ Here are the articles to read before your upcoming session:
 
 #### 📄 Manual - Session 01
 
-[Pandas Data Analysis - Reading Files, Basic Analysis, GroupBy, and Binning - Manual](https://docs.google.com/document/d/17NN5X31nj3Cxvm6lQgzZXYVJWdx1brwAXjVCHNUdsww/edit?usp=sharing)
+- [Pandas Data Analysis - Reading Files, Basic Analysis, GroupBy, and Binning - Manual](https://docs.google.com/document/d/17NN5X31nj3Cxvm6lQgzZXYVJWdx1brwAXjVCHNUdsww/edit?usp=sharing)
 
 ---
 
@@ -71,7 +71,7 @@ Here are the articles to read before your upcoming session:
 
 #### 📄 Manual - Session 02
 
-[Handling Missing Values in Python (Pandas)- Manual](https://docs.google.com/document/d/1V_aRot-8WZMiMArZQCJvRHhHYstP_MRh1q44sNLkEaE/edit?usp=sharing)
+- [Handling Missing Values in Python (Pandas)- Manual](https://docs.google.com/document/d/1V_aRot-8WZMiMArZQCJvRHhHYstP_MRh1q44sNLkEaE/edit?usp=sharing)
 
 ---
 
@@ -141,7 +141,7 @@ Here are the articles to read before your upcoming session:
 
 #### 📄 Manual - EDA Session 04 
 
-[FuzzyWuzzy - Manual](https://docs.google.com/document/d/1K4GZU_4vLaSWurdHmTGu5201xrR8sw386EwG1pv6aJg/edit?usp=sharing)
+- [FuzzyWuzzy - Manual](https://docs.google.com/document/d/1K4GZU_4vLaSWurdHmTGu5201xrR8sw386EwG1pv6aJg/edit?usp=sharing)
 
 ---
 
