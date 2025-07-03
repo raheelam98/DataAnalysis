@@ -42,11 +42,11 @@ Descriptive statistics summarize and describe the main features of a dataset.
 
 **Key Measures:**
 - **Central Tendency**:  
-  Mean (average), median (middle value), and mode (most frequent value).  
+  **Mean** (average), **median** (middle value), and **mode** (most frequent value).  
 - **Dispersion**:  
-  Range (difference between highest and lowest values), variance (measure of variability), and standard deviation (average amount by which values differ from the mean).  
+  **Range** (difference between highest and lowest values), **variance** (measure of variability), and **standard deviation** (average amount by which values differ from the mean).  
 - **Visualization**:  
-  Using charts and graphs like histograms, bar charts, and box plots to visualize data distribution and patterns.
+  Using charts and graphs like **histograms, bar charts, and box plots** to visualize data distribution and patterns.
 
  #### Data Skill 
  - Data Analysis, Data Scientist, Data Engineer
@@ -84,7 +84,7 @@ Inspecting, cleaning, transforming, and modeling data to discover useful informa
 5. Perform analysis  
 6. Visualize / report to present insights or key findings  
 
-#### Types of Analysis
+#### Types of Analysis - Descriptive, Diagnostic, Predictive, Prescriptive
 
 **1. Descriptive Analysis**  
 - Summer revenue is higher than winter  
