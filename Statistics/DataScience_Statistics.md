@@ -36,6 +36,7 @@
 - Which offer increases conversions?  
 
 #### Descriptive vs Inferential
+sec-01 - descriptive - inferential.png
 
 ---
 
@@ -45,7 +46,7 @@
 
 #### Measures of Central Tendency
 
-- A measure that defines the center or typical value of a dataset  
+- **A measure that defines the center or typical value of a dataset**  
 - Summarizes large datasets and gives a clear overview  
 - Key in Data Science: Simplifies complex data for meaningful comparisons
 
@@ -64,7 +65,7 @@
 
 Monthly Sales: $5000, $6000, $7000, $8000, $9000
 
-Mean Sales = (5000 + 6000 + 7000 + 8000 + 9000) / 5
+**Mean Sales** = (5000 + 6000 + 7000 + 8000 + 9000) / 5 = 7000
 
 - **Why It’s Important**: Serves as a baseline for model predictions, like sales forecasting
 
@@ -77,14 +78,14 @@ Mean Sales = (5000 + 6000 + 7000 + 8000 + 9000) / 5
 
 Salary: $30K, $50K, $75K, $100K, $200K
 
-Median Salary = $75K
+Median Salary = $75K (**resistant to the $200K outlier**)
 
 - **Why It’s Important**: Ideal for income/property data with common outliers
 
 #### Mode: Most Frequent Value
 
 - Identifies most frequent occurrence in data  
-- Helps find patterns and trends in categorical data  
+- **Helps find patterns and trends in categorical data**  
 
 **Example:**
 
@@ -103,7 +104,7 @@ Mode = 4
 #### Measures of Dispersion
 
 - Understands variability within data  
-- Assesses spread around the central value  
+- Crucial for determining data consistency and model performance 
 - Detects outliers and data distribution  
 - Essential for model selection, preprocessing, and risk assessment
 
@@ -112,6 +113,8 @@ Mode = 4
 - **Range**: Max - Min  
 - **Variance**: Average squared deviation from the mean  
 - **Standard Deviation**: Square root of variance
+
+sec-03 - mean - median - mode.png  
 
 #### Range
 
@@ -134,7 +137,9 @@ Range = $500 - $50 = $450
 **Example:**
 
 Monthly Sales: $10, $20, $30
+
 Mean = $20
+
 Variance = 66.67
 
 - **Why It’s Important**: Essential for modeling and risk analysis
@@ -153,6 +158,10 @@ Mean = $20
 Variance = 66.67
 
 Std Dev ≈ $8.16
+
+(The sales figures deviate from the mean by $8.16 or $8)
+
+sec-03 - standard deviation.png
 
 - **Why It’s Important**: Evaluates predictions and data precision
 
@@ -182,7 +191,11 @@ Std Dev ≈ $8.16
 
 Monthly Sales: $100, $200, $300, $400, $500
 
-- **Why It’s Important**: Essential for EDA
+Histogram shows the frequency of sales in each price range
+
+- **Why It’s Important**: Essential for EDA , and understanding data distribution before modeling
+
+sec-04 - histograms.png
 
 #### Boxplots
 
@@ -193,7 +206,11 @@ Monthly Sales: $100, $200, $300, $400, $500
 
 Data: {10, 20, 30, 40, 50}
 
+**Boxplot shows the median, quartiles, and any data points outside of the upper and lower whiskers (outliers)**
+
 - **Why It’s Important**: Critical for data cleaning
+
+sec-04 - boxplots.png
 
 #### Scatterplots
 
@@ -205,6 +222,8 @@ Data: {10, 20, 30, 40, 50}
 Advertising Spend ($) vs Sales ($)
 
 - **Why It’s Important**: Key for feature selection and trend analysis
+
+sec-04 - scatter plots.png
 
 ---
 
@@ -231,9 +250,28 @@ Advertising Spend ($) vs Sales ($)
 
 Housing Prices: $50K, $150K, $200K, $1M
 
-→ Positive skew (right-tailed)
+→ Positive skew (right-tailed) : A few extremely high property prices
+
+- **Why It’s Important**: Indicates need for transformation before modeling
+
+sec-05 - skewnes.png
+
+#### Kurtosis
+
+- Measures concentration and presence of outliers  
+
+**Example:**
+
+Stock Returns: 5%, -2%, 10%, 3%, 30%
+
+→ High kurtosis = (heavy tails) :  A few extreme values outside the usual range
 
 - **Why It’s Important**: Key for risk assessment and anomaly handling
+
+sec-05 - kurtosis.png
+
+---
+
 
 ---
 
