@@ -1,5 +1,5 @@
 ##  FiberNet Churn Case Study
-####  SQL Case-Study session 
+####  SQL Case-Study session   
 
 **Speaker :**  Sohaib Qazi, Manager Sales Planning & Analysis at PTCL
 
