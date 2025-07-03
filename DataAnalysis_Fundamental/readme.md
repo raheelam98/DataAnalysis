@@ -28,11 +28,12 @@ A collection of facts, figures, and statistics collected and stored for referenc
 
 Statistical foundations provide the basic principles and methods for collecting, analyzing, interpreting, and presenting data.
 
-**Key Concepts:**
 - **Population and Sample**:  
-  Population is the entire group you want to draw conclusions about, while a sample is a subset of the population.  
+  Population is the entire group you want to draw conclusions about, while a sample is a subset of the population.
+  
 - **Variables**:  
   Characteristics or properties that can take on different values (e.g., age, income, temperature).  
+
 - **Scales of Measurement**:  
   Nominal, ordinal, interval, and ratio scales used to classify data.  
 
@@ -43,8 +44,10 @@ Descriptive statistics summarize and describe the main features of a dataset.
 **Key Measures:**
 - **Central Tendency**:  
   **Mean** (average), **median** (middle value), and **mode** (most frequent value).  
+
 - **Dispersion**:  
   **Range** (difference between highest and lowest values), **variance** (measure of variability), and **standard deviation** (average amount by which values differ from the mean).  
+
 - **Visualization**:  
   Using charts and graphs like **histograms, bar charts, and box plots** to visualize data distribution and patterns.
 
