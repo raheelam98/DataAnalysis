@@ -36,7 +36,7 @@
 - Which offer increases conversions?  
 
 #### Descriptive vs Inferential
-sec-01 - descriptive - inferential.png
+[sec-01 - descriptive - inferential.png](https://github.com/raheelam98/DataAnalysis/blob/main/Statistics/sec-01%20-%20descriptive%20-%20inferential.png)
 
 ---
 
@@ -161,7 +161,7 @@ Std Dev ≈ $8.16
 
 (The sales figures deviate from the mean by $8.16 or $8)
 
-sec-03 - standard deviation.png
+[sec-03 - standard deviation.png](https://github.com/raheelam98/DataAnalysis/blob/main/Statistics/sec-03%20-%20standard%20deviation.png)
 
 - **Why It’s Important**: Evaluates predictions and data precision
 
