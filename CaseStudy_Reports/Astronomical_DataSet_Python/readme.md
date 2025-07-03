@@ -6,4 +6,7 @@
 
 [Astronomical_DataSet](https://drive.google.com/file/d/1aJh78p2agN10Ny7-dE_c-hQsm_1jTwNJ/view)
 
-**Mr. Zain Mobeen, an astrophysicist at the Nicolaus Copernicus Astronomical Center .** His research focuses on using multiple telescopes to observe the aftermath of stellar collisions.
+**Speaker :** Mr. Zain Mobeen, an astrophysicist at the Nicolaus Copernicus Astronomical Center.
+
+His research focuses on using multiple telescopes to observe the aftermath of stellar collisions.
+
