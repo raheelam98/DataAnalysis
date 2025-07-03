@@ -2,7 +2,7 @@
 
 #### EDA Session 01
 
-[Pandas Data Analysis - Reading Files, Basic Analysis, GroupBy, and Binning - Manual]
+[Pandas Data Analysis - Reading Files, Basic Analysis, GroupBy, and Binning - Manual](https://docs.google.com/document/d/17NN5X31nj3Cxvm6lQgzZXYVJWdx1brwAXjVCHNUdsww/edit?tab=t.0#heading=h.c3mg2jdxfvc8)
 
 [Case Study: Strategic AI Adoption Analysis for a Global Tech Consulting Firm](https://docs.google.com/document/d/1GlDBnUBARd05d7wI3s8--Gd6N-TYz-UNY57_AbxfRQ8/edit?tab=t.0#heading=h.8uk06pudub8a)
 
