@@ -1,6 +1,5 @@
 ## DataAnalysis
 
-
 ### Data Literacy
 
 A collection of facts, figures, and statistics collected and stored for reference and analysis.
