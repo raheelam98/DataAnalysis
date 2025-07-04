@@ -85,5 +85,5 @@ Features included:
 - Summarize key learnings from the analysis  
 - Suggest next steps and recommendations for stakeholders (e.g., investors)
 
-### Suggested GitHub Project Structure
+
 
