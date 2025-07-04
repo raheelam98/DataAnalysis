@@ -16,3 +16,5 @@
 ### EDA Session - 04 
 - FuzzyWuzzy
   
+### EDA Session - 05
+- Correlation and Multivariate Analysis
