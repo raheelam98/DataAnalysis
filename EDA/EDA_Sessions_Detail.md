@@ -145,4 +145,24 @@ Here are the articles to read before your upcoming session:
 
 ---
 
+### EDA Session - 05
+
+**Correlation and Multivariate Analysis**
+
+
+#### 📘 Articles to Read
+
+1. **ScienceDirect – Multivariate Analysis**  
+   Overview of multivariate statistical methods and their applications in Earth and planetary sciences.  
+   🔗 [Read here](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/multivariate-analysis)
+
+2. **Medium – Multivariate Analysis: Exploring Relationships Between Variables**  
+   A beginner-friendly explanation of how multivariate analysis helps uncover patterns in multi-variable datasets.  
+   🔗 [Read here](https://medium.com/@noorfatimaafzalbutt/multivariate-analysis-exploring-relationships-between-variables-87a3363bd320)
+
+#### 📄 Manual for the Session
+
+Please review the session manual for a detailed breakdown of the concepts and activities.  
+🔗 [View the Manual](https://docs.google.com/document/d/19YQ37CoSjXA8aSi5T5Ev1S6TIrBXO0KdfVPDzjOmLSU/edit?usp=sharing)
+
 
