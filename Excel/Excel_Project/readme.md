@@ -1,8 +1,18 @@
 ## Excel Project
 
-**Project DataSet**
-- online_retail.xlsx
+[Excel Portfolio Project](https://classroom.google.com/c/NzcyODY3OTU5NDY1/a/Njk5MjQyNDg3NDIz/details)
 
+[Excel Project - Retail Sales Analysis - Document](https://drive.google.com/file/d/1Od_qOOMs4ixfKDtWsK1wRFbkLDLDAm6t/view)
+
+
+**Project DataSet**
+- [online_retail.xlsx](https://drive.google.com/file/d/1gwLVdglWe-zAhdKvRNzYjM_bGJ_Ev3EZ/view)
+
+- [online_retail_cleaned_dataset.csv](https://drive.google.com/file/d/1Anan-NcItddEhvONgI8OUOMoIm58x7H6/view)
+
+  
+---
+  
 [Data Analysis: Excel Project - Medium](https://medium.com/@khananns24/data-analysis-excel-project-26d22421b4e2)
 
 
