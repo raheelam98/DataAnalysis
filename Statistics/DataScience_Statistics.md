@@ -39,7 +39,7 @@
 [Descriptive - Inferential](https://github.com/raheelam98/DataAnalysis/blob/main/Statistics/Statistics_images/sec-01%20-%20descriptive%20-%20inferential.png)
 
 ---
-
+ 
 #### Session 02
 
 ### Central Tendency in Descriptive Statistics
@@ -50,7 +50,7 @@
 - Summarizes large datasets and gives a clear overview  
 - Key in Data Science: Simplifies complex data for meaningful comparisons
 
-#### Key Metrics to Summarize Central Point
+#### Key Metrics to Summarize Central Point 
 
 - **Mean**: Average of all values  
 - **Median**: Middle value of ordered data  
