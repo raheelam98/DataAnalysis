@@ -60,7 +60,9 @@
 
 --- 
 
-### EDA Session 05 - 
+### EDA Session 05 - Correlation and Multivariate Analysis
+
+[Correlation and Multivariate Analysis - Manual](https://docs.google.com/document/d/19YQ37CoSjXA8aSi5T5Ev1S6TIrBXO0KdfVPDzjOmLSU/edit?tab=t.0#heading=h.ylsr871tq58j)
 
 
 **EDA Session 05 - Google Colab**
