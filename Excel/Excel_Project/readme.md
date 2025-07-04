@@ -1,5 +1,7 @@
 ## Excel Project
 
+**Excel Project Details**
+
 [Excel Portfolio Project](https://classroom.google.com/c/NzcyODY3OTU5NDY1/a/Njk5MjQyNDg3NDIz/details)
 
 [Excel Project - Retail Sales Analysis - Document](https://drive.google.com/file/d/1Od_qOOMs4ixfKDtWsK1wRFbkLDLDAm6t/view)
