@@ -58,3 +58,14 @@
 
 [pakistan_intellectual_capital.csv](https://drive.google.com/file/d/1ZtYpa7fgM0xwRnmcNqbj54hIjcwuEBnI/view)
 
+--- 
+
+### EDA Session 05 - 
+
+
+**EDA Session 05 - Google Colab**
+
+
+**EDA Session 05 - DataSet**
+
+
