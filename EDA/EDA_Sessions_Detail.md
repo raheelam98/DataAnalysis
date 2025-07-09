@@ -165,4 +165,44 @@ Here are the articles to read before your upcoming session:
 Please review the session manual for a detailed breakdown of the concepts and activities.  
 🔗 [View the Manual](https://docs.google.com/document/d/19YQ37CoSjXA8aSi5T5Ev1S6TIrBXO0KdfVPDzjOmLSU/edit?usp=sharing)
 
+--- 
+
+## Session 1: Introduction to GIS Basics
+
+### 🎯 Objective:
+Understand the fundamentals of GIS and its applications.
+
+
+### 1. What is GIS?
+
+- Definition and importance of GIS  
+- Real-world applications of GIS in various fields:
+  - Urban Planning  
+  - Agriculture  
+  - Disaster Management  
+  - Business and Market Analysis
+
+### 2. Understanding Spatial Data
+
+- Components of a GIS system  
+- Types of Spatial Data:
+  - **Vector**: Points, Lines, Polygons  
+  - **Raster**: Grids, Images, Satellite Data
+
+### 3. GIS Tools and Software
+
+- Overview of popular GIS software:
+  - QGIS  
+  - ArcGIS  
+  - Google Earth Engine  
+- Setting up **QGIS** for desktop use
+
+
+### 4. Hands-On Activity  
+
+- Open QGIS and explore the user interface  
+- Load sample spatial data (e.g., administrative boundaries)
+
+[QGIS Session 01 | Data Analytics Bootcamp 05](https://drive.google.com/file/d/1AVmkytLhrL_4g8cDcWHcXCqjyGfqUQe2/view)
+
 
