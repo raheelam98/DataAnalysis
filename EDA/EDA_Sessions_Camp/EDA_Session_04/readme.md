@@ -1,6 +1,6 @@
 ### EDA Session 04
 
-# 🔍 Handling Data Inconsistencies Using FuzzyWuzzy
+### 🔍 Handling Data Inconsistencies Using FuzzyWuzzy
 
 Fuzzy matching is a powerful technique for dealing with inconsistent or messy text data. The `fuzzywuzzy` library in Python helps compare strings using Levenshtein Distance.
 
