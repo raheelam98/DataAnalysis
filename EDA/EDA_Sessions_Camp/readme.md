@@ -66,8 +66,10 @@
 
 
 **EDA Session 05 - Google Colab**
+
 [DA5 Multivariate analysis.ipynb](https://colab.research.google.com/drive/1fCaOgh91GD2bqG18pZhDKkvBKq16ubMv?usp=sharing&authuser=0)
 
 **EDA Session 05 - DataSet**
+
 [cubic_zirconia.csv](https://drive.google.com/file/d/1eK79m-nqw_vLY4OXn1pEqnPgpipGg8pm/view)
 
