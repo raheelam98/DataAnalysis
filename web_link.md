@@ -11,11 +11,18 @@
 
 - [Naveed Iftikhar - linkedin](https://www.linkedin.com/in/navift/)
 
+ - [Sana Hussain - linkedin](https://www.linkedin.com/in/sana-hussain-/) 
+
 - [Berjees Shaikh - linkedin](https://www.linkedin.com/in/berjeesshaikh/)
 
 - [Kibria Ahmad - linkedin](https://www.linkedin.com/in/kibria-ahmad/)
 
 - [Muhammad Zain Mobeen - linkedin](https://www.linkedin.com/in/muhammad-zain-mobeen-b69a2b22b/) Mr. Zain Mobeen, an astrophysicist at the Nicolaus Copernicus Astronomical Center.
+  
+- [Gulnaz Mushtaq - linkedin](https://www.linkedin.com/in/gulnaz-mushtaq/) Microsoft Certified Trainer Community Lead
+  
+- [Usama Shahid - linkedin](https://www.linkedin.com/in/usamashahid15/)
+  
 
 - learning@atomcamp.com
   
