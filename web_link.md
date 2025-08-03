@@ -18,6 +18,8 @@
 
 - [Kibria Ahmad - linkedin](https://www.linkedin.com/in/kibria-ahmad/)
 
+- [Maimoona Khilji - linkedin](https://www.linkedin.com/in/maimoona-khilji/?originalSubdomain=ae)
+
 - [Muhammad Umair - linkedin](https://www.linkedin.com/in/muhammad-umair-ab4ba2107/) :  Mr. Muhammad Umair is recognized internationally as an AI trainer and a seasoned machine learning engineer focusing on natural language processing and computer vision. His career is highlighted by a rich portfolio of projects in AI, ML, DL, and Generative AI on Upwork, where he has demonstrated his ability to solve complex challenges with innovative solutions. His expertise is further augmented by his role in a leading Singapore-based startup and his consultancy work with Blue Ocean, where he contributed to developing AI use cases and creating compelling proof-of-concepts.
 - [muhammadumair894 - github](https://github.com/muhammadumair894?tab=repositories)
 
