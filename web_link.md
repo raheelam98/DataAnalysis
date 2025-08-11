@@ -28,8 +28,11 @@
 - [Gulnaz Mushtaq - linkedin](https://www.linkedin.com/in/gulnaz-mushtaq/) Microsoft Certified Trainer Community Lead
   
 - [Usama Shahid - linkedin](https://www.linkedin.com/in/usamashahid15/)
-  
+
+---
 
 - learning@atomcamp.com
   
 - sanahussain4747@gmail.com
+
+- [ Power Packed session - Sana Hussain](https://www.linkedin.com/posts/sana-hussain-_powerbi-hranalytics-datascience-activity-7351646818956382208-UiJM/?utm_source=share&utm_medium=member_android&rcm=ACoAACW2598BCVc7DSQOcDJKzhAsIw3KfT90Ptk)
