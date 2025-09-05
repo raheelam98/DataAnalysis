@@ -4,7 +4,7 @@
 
 **Here, I am going to create a database**
 
-create database University;
+create database database_name;
 
 **Steps to create database**
  1. run the sql code
