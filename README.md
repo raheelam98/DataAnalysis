@@ -82,25 +82,77 @@ Data analysis turns raw data into meaningful insights that drive smarter decisio
 
 **Python**
 
+[Getting Started with Python- programiz](https://www.programiz.com/python-programming/getting-started)
 
+[Python Variables and Literals - programiz](https://www.programiz.com/python-programming/variables-constants-literals)
 
+[Python Variables - w3schools](https://www.w3schools.com/python/python_variables.asp)
 
+[Python Data Types Explained: A Beginner’s Guide - datacamp](https://www.datacamp.com/blog/python-data-types)
 
+[What is a sequence data type in Python? - tutorialspoint](https://www.tutorialspoint.com/What-is-a-sequence-data-type-in-Python)
 
+[Python Sequences: A Comprehensive Guide - realpython](https://realpython.com/python-sequences/)
 
+[Python Sets and Set Theory Tutorial - datacamp](https://www.datacamp.com/tutorial/sets-in-python)
 
+[Python - Nested Dictionaries - w3schools](https://www.w3schools.com/python/python_dictionaries_nested.asp)
 
+[Conditional Statements in Python: All Types with Example - wscubetech](https://www.wscubetech.com/resources/python/conditional-statements)
 
+[Loops in Python - If, For, While and Nested Loops - simplilearn](https://www.simplilearn.com/tutorials/python-tutorial/python-loops)
 
+[Loops in Python - For, While and Nested Loops - geeksforgeeks](https://www.geeksforgeeks.org/python/loops-in-python/)
 
+[Exploring Speed Eficiency: A Comparative Analysis of For and While Loops in Python - medium](https://medium.com/@firdausauliafaza/exploring-speed-eficiency-a-comparative-analysis-of-for-and-while-loops-in-python-f3dab75d57a7)
 
+[Try, Except, else and Finally in Python - geeksforgeeks](https://www.geeksforgeeks.org/python/try-except-else-and-finally-in-python/)
 
+[Functions in Python | Definition, Types and Examples - simplilearn.](https://www.simplilearn.com/tutorials/python-tutorial/python-functions)
 
+[Python Functions - programiz](https://www.programiz.com/python-programming/function)
 
+[Python Lambda - w3schools](https://www.w3schools.com/python/python_lambda.asp)
 
+[Master Data Binning in Python using Pandas - blog](https://www.blog.trainindata.com/master-data-binning-in-python-using-pandas/)
 
+[How to bin numerical columns into groups using pandas - cut() qcut() - ](https://how.dev/answers/how-to-bin-numerical-columns-into-groups-using-pandas)
 
+**[Pandas Data Analysis - Reading Files, Basic Analysis, GroupBy, and Binning](https://docs.google.com/document/d/17NN5X31nj3Cxvm6lQgzZXYVJWdx1brwAXjVCHNUdsww/edit?tab=t.0)**
 
+[A Comprehensive Guide to Data Analysis using Pandas: Hands-On Data Analysis on IMDB movies data](https://www.analyticsvidhya.com/blog/2021/05/a-comprehensive-guide-to-data-analysis-using-pandas-hands-on-data-analysis-on-imdb-movies-data/)
+
+[What is AI adoption? - virtusa ](https://www.virtusa.com/digital-themes/ai-adoption)
+
+[How Many Companies Use AI? (New 2025 Data - explodingtopics)](https://explodingtopics.com/blog/companies-using-ai)
+
+[Top Techniques to Handle Missing Values Every Data Scientist Should Know - datacamp](https://www.datacamp.com/tutorial/techniques-to-handle-missing-data-values)
+
+[Detect and Remove the Outliers using Python](https://www.geeksforgeeks.org/data-science/detect-and-remove-the-outliers-using-python/)
+
+[Guide on Outlier Detection Methods - analyticsvidhya](https://www.analyticsvidhya.com/blog/2021/05/feature-engineering-how-to-detect-and-remove-outliers-with-python-code/)
+
+[Fuzzy String Matching in Python Tutorial - datacamp](https://www.datacamp.com/tutorial/fuzzy-string-python)
+
+[FuzzyWuzzy Python Library - geeksforgeeks](https://www.geeksforgeeks.org/python/fuzzywuzzy-python-library/)
+
+[Multivariate Analysis - sciencedirect](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/multivariate-analysis)
+
+[Multivariate Analysis: Exploring Relationships Between Variables - medium](https://medium.com/@noorfatimaafzalbutt/multivariate-analysis-exploring-relationships-between-variables-87a3363bd320)
+
+[What Is HR Analytics? Definition, Importance, Key Metrics, Data Requirements, and Implementation - spiceworks](https://www.spiceworks.com/hr/hr-analytics/articles/what-is-hr-analytics/)
+
+**Report Writing**
+
+[Structure of a Data Analysis Report](https://www.stat.cmu.edu/~brian/701/notes/paper-structure.pdf)
+
+[How to Write a Data Analysis Report: Examples, Structure & Tips](https://agencyanalytics.com/blog/data-analysis-report)
+
+[DATA ANALYSIS REPORT](https://www.hdruk.ac.uk/wp-content/uploads/2021/08/DATA-ANALYSIS-REPORT-TEAM-5.pdf)
+
+[A guide to technical report writing](https://www.theiet.org/media/5182/technical-report-writing.pdf)
+
+[Data Analysis Technical Report Writing - too long](https://assets.publishing.service.gov.uk/media/57a08c1ee5274a31e0000fe2/ZC0205b.pdf)
 
 
 
