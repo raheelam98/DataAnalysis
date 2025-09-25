@@ -4,5 +4,7 @@ Data analysis turns raw data into meaningful insights that drive smarter decisio
 
 [DA Cohort 05 (Azure) - Classroom](https://classroom.google.com/c/NzcyODY3OTU5NDY1)
 
+[What is Sales Analysis? - Resource Center](https://www.salesforce.com/ap/resources/articles/sales-analysis/)
 
+[Ecommerce Analytics: How to Leverage the Power of Data for Your Business](https://www.bigcommerce.com/articles/ecommerce/ecommerce-analytics/)
 
