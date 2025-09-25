@@ -48,6 +48,61 @@ Data analysis turns raw data into meaningful insights that drive smarter decisio
 
 [What Is a Common Table Expression (CTE) in SQL? - LearnSQL](https://learnsql.com/blog/what-is-common-table-expression/)
 
+**Power BI**
+
+[Power BI Tutorial – A Complete Guide on Introduction to Power BI - data-flair](https://data-flair.training/blogs/power-bi-tutorial/)
+
+[What Is Power BI? What It Is, How It’s Used, and More - coursera](https://www.coursera.org/articles/what-is-power-bi)
+
+[Query overview in Power BI Desktop - learn.microsoft.](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-query-overview)
+
+[Data Modeling in Power BI: An Introduction](https://www.linkedin.com/pulse/data-modeling-power-bi-introduction-chester-king/)
+
+[Data Modeling in Power BI Tutorial - datacamp](https://www.datacamp.com/tutorial/data-modeling-in-power-bi-tutorial)
+
+[The DAX language](https://dax.guide/)
+
+[Power BI DAX Tutorial for Beginners - datacamp](https://www.datacamp.com/tutorial/power-bi-dax-tutorial-for-beginners)
+
+[Learn DAX basics in Power BI Desktop - microsoft](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-quickstart-learn-dax-basics)
+
+[Best Ways to Visualize Data with Power BI - pixelplex](https://pixelplex.io/blog/power-bi-data-visualization/)
+
+[Top 10 Proven Data Visualization Best Practices - gooddata.](https://www.gooddata.com/blog/5-data-visualization-best-practices/)
+
+[Retail Analysis sample for Power BI: Take a tour - microsoft](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-retail-analysis)
+
+[Customer Profitability sample for Power BI: Take a tour - microsoft](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-customer-profitability)
+
+[Sales-Case-Study-Analysis-](https://github.com/aisha305/Sales-Case-Study-Analysis-)
+
+[BI in Real-Life: Case Studies Showcasing the Impact of Business Intelligence Services - datafortune](https://datafortune.com/bi-in-real-life-case-studies-showcasing-the-impact-of-business-intelligence-services/)
+
+[20 Power BI Projects Examples and Ideas for Practice - projectpro](https://www.projectpro.io/article/power-bi-microsoft-projects-examples-and-ideas-for-practice/533)
+
+**Python**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
