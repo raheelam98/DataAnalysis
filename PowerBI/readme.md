@@ -31,7 +31,7 @@ The end-to-end process demonstrates how raw data is **collected, cleaned, transf
 4. **DAX (Data Analysis Expressions)**
    - Create calculated columns, measures, KPIs.  
    - Perform advanced aggregations and business logic.  
-
+ 
 5. **Visuals / Dashboard (Data Visualization)**
    - Build interactive reports with charts, graphs, and visuals.  
    - Communicate insights effectively.  
@@ -39,6 +39,50 @@ The end-to-end process demonstrates how raw data is **collected, cleaned, transf
 6. **Publish (Report Publishing)**
    - Share dashboards via **Power BI Service**, web, or mobile apps.  
    - Enable collaboration and better decision-making.  
+
+---
+
+#### **ETL in Data Science / Analytics**
+
+ETL stands for **Extract, Transform, Load**.  
+It is the process used to integrate data from multiple sources into a single storage system (like a database, data warehouse, or BI tool such as Power BI).
+
+#### **1. Extract**
+* Collect data from multiple sources:  
+  - Databases (MySQL, SQL Server, Oracle)  
+  - Files (CSV, Excel)  
+  - APIs / Web Services  
+  - Cloud Storage (Azure, AWS, Google Cloud)  
+* **Goal:** Gather raw data.  
+
+#### **2. Transform**
+* Clean and prepare data for analysis:  
+  - Handle missing values / duplicates  
+  - Standardize column names  
+  - Fix data types (date, numeric, text)  
+  - Remove inconsistencies (e.g., "NY" vs "New York")  
+  - Create calculated fields  
+* **Tools:** SQL, Power Query, Python (Pandas), Spark, etc.  
+* **Goal:** Convert raw data into meaningful, structured data.  
+
+#### **3. Load**
+* Store the transformed data into a target system:  
+  - Data Warehouse (Snowflake, BigQuery, Redshift, Azure Synapse)  
+  - Database (PostgreSQL, SQL Server, MySQL)  
+  - BI Tools (Power BI, Tableau)  
+* **Goal:** Make data available for reporting, dashboards, and analysis.  
+
+#### **Why ETL is Important?**
+* Integrates data from different sources  
+* Improves data quality  
+* Enables fast and reliable analysis  
+* Powers dashboards and reports for decision-making  
+
+#### **Example (Power BI)**
+When connecting **CSV + SQL Server** data in Power BI:  
+- **Extract:** Import CSV + SQL data  
+- **Transform:** Clean in Power Query (remove nulls, fix data types)  
+- **Load:** Store in Power BI model for analysis  
 
 ---
 ---
