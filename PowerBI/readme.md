@@ -1,5 +1,48 @@
 ## Power BI
 
+#### **Power BI / Data Analysis Workflow**
+
+This workflow shows the complete lifecycle of data in Power BI:  
+Data is **extracted → cleaned → modeled → analyzed → visualized → published**.  
+It highlights how **Data Analysis Expressions (DAX)** and visual dashboards turn raw data into meaningful business insights.
+
+#### **Overview**
+The end-to-end process demonstrates how raw data is **collected, cleaned, transformed, modeled, and visualized** into dashboards for publishing and decision-making.
+
+#### **Steps in the Process**
+
+1. **Get Data (Data Extraction/Ingestion)**
+   - Sources: CSV, Excel, MySQL, SQL Server, Google Sheets, Web Services, etc.  
+   - **Goal:** Collect raw data from multiple sources.  
+
+2. **Cleaning / Transformation (Data Transformation)**
+   - Tool: **Power Query**  
+   - Tasks:  
+     * Handle missing values and duplicates  
+     * Fix text inconsistencies  
+     * Ensure correct data types  
+     * Standardize column names  
+   - **Goal:** Make raw data usable for analysis.  
+
+3. **Relationships (Data Modeling)**
+   - Define relationships between tables (e.g., fact and dimension tables).  
+   - Ensure schema supports accurate reporting.  
+
+4. **DAX (Data Analysis Expressions)**
+   - Create calculated columns, measures, KPIs.  
+   - Perform advanced aggregations and business logic.  
+
+5. **Visuals / Dashboard (Data Visualization)**
+   - Build interactive reports with charts, graphs, and visuals.  
+   - Communicate insights effectively.  
+
+6. **Publish (Report Publishing)**
+   - Share dashboards via **Power BI Service**, web, or mobile apps.  
+   - Enable collaboration and better decision-making.  
+
+---
+---
+
 [How to Calculate Year over Year Growth % in Power BI - Data Science Tutorials](https://www.youtube.com/watch?v=vaUeODZJyd4)
  
 ### Power BI - Data Modeling Resources
