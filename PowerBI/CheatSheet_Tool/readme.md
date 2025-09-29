@@ -4,17 +4,17 @@
 
 **Power BI Desktop - Home**
 <div style="text-align: center;">
-    <img alt="" src="./Tool_Images/1a_Desktop_Home.jpeg " width="500px"></img>
+    <img alt="" src="./Tool_Images/1a_Desktop_Home.jpeg " width="700px"></img>
 </div>
 
 **Power BI Desktop - Insert**
 <div style="text-align: center;">
-    <img alt="" src="./Tool_Images/1b_Desktop_Insert.jpeg " width="500px"></img>
+    <img alt="" src="./Tool_Images/1b_Desktop_Insert.jpeg " width="700px"></img>
 </div>
 
 **Power BI Desktop - Modeling**
 <div style="text-align: center;">
-    <img alt="" src="./Tool_Images/1c_Desktop_Modeling.jpeg " width="500px"></img>
+    <img alt="" src="./Tool_Images/1c_Desktop_Modeling.jpeg " width="700px"></img>
 </div>
 
 **Power BI Desktop - View**
