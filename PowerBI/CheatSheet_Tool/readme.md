@@ -36,8 +36,35 @@
 
 **Power BI - Power Query - Home**
 <div style="text-align: center;">
-    <img alt="" src="./Tool_Images/1.1_PowerQuery_Home.jpeg" width="400px"></img>
+    <img alt="" src="./Tool_Images/1.1_PowerQuery_Home.jpeg" width="500px"></img>
 </div>
+
+**Power BI - Power Query - Transform**
+<div style="text-align: center;">
+    <img alt="" src="./Tool_Images/1.2_PowerQuery_Transform.jpeg " width="500px"></img>
+</div>
+
+**Power BI - Power Query - Add Column**
+<div style="text-align: center;">
+    <img alt="" src="./Tool_Images/1.3_PowerQuery_AddColumn.jpeg " width="500px"></img>
+</div>
+
+**Power BI - Power Query - View**
+<div style="text-align: center;">
+    <img alt="" src="./Tool_Images/1.4_PowerQuery_View.jpeg" width="500px"></img>
+</div>
+
+**Power BI - Power Query - Tool**
+<div style="text-align: center;">
+    <img alt="" src="./Tool_Images/1.5_PowerQuery_Tool.jpeg" width="500px"></img>
+</div>
+
+**Power BI - Power Query - Help**
+<div style="text-align: center;">
+    <img alt="" src="./Tool_Images/1.6_PowerQuery_Help.jpeg" width="500px"></img>
+</div>
+
+---
 
 
 
