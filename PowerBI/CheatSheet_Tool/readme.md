@@ -11,7 +11,7 @@ Power BI is a powerful tool for **data visualization and transformation**. The c
   *To work on the entire dataset:* Go to the bottom and select **Column profiling based on entire dataset**.  
 - **Make First Row as Heading:** Right-click on the column → *Use first row as headers*.  
 
-#### **Power Query — View Options**
+#### **Power Query — View Tab**
 - **Column Quality:** Shows data accuracy.  
   - **Valid:** Data is correct and error-free.  
   - **Error:** Indicates format errors.  
