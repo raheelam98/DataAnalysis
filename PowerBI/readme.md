@@ -1,5 +1,15 @@
 ## Power BI
 
+### **Power BI - Tool**
+
+**Data**
+
+- **Data scraping** = getting the raw data.
+- **Data cleaning** = making that data usable.
+
+
+---
+
 #### **Power BI / Data Analysis Workflow**
 
 This workflow shows the complete lifecycle of data in Power BI:  
