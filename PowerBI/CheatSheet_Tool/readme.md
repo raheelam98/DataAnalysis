@@ -13,6 +13,9 @@ Power BI is a powerful tool for **data visualization and transformation**. The c
 
 ## **Power Query — View Options**
 
+#### **Missing Tabs on Dashboard**
+- Go to *View* → Select the missing options (e.g., Column quality, Column profile, Column distribution).  
+
 #### **Power Query — View Tab**
 - **Column Quality:** Shows data accuracy.  
   - **Valid:** Data is correct and error-free.  
@@ -23,6 +26,8 @@ Power BI is a powerful tool for **data visualization and transformation**. The c
   - **Unique:** Classes that occur only once.  
   - If *Distinct = Unique* → No repetition in data.  
 - **Column Profile:** Provides full statistics of a column.  
+
+## **Add, Move, Remove - Columns/Rows**
 
 #### **Power Query — Home Tab**
 - **Remove Columns:**  
@@ -39,19 +44,14 @@ Power BI is a powerful tool for **data visualization and transformation**. The c
   - Remove duplicates from the entire dataset → Select table → Remove duplicates.  
   - Remove duplicates from a single column → *Keep rows → Keep duplicate*.  
 
-## **Add & Move Columns**
-
-#### **AddColumns Tab**
+#### **Power Query — AddColumns Tab**
 - **Add Column:**  
   - *Index column* → Assigns index numbers.  
   - Set starting number (e.g., 1, 5) and increment (e.g., 1, 2).
  
-#### **Transform  Tab** 
+#### **Power Query — Transform Tab** 
 - **Move Column:**  
   - *Transform → Move → To Beginning* (or other positions).  
-
-#### **Missing Tabs on Dashboard**
-- Go to *View* → Select the missing options (e.g., Column quality, Column profile, Column distribution).  
 
 
 ---
