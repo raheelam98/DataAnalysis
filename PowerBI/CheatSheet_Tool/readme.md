@@ -11,6 +11,8 @@ Power BI is a powerful tool for **data visualization and transformation**. The c
   *To work on the entire dataset:* Go to the bottom and select **Column profiling based on entire dataset**.  
 - **Make First Row as Heading:** Right-click on the column → *Use first row as headers*.  
 
+## **Power Query — View Options**
+
 #### **Power Query — View Tab**
 - **Column Quality:** Shows data accuracy.  
   - **Valid:** Data is correct and error-free.  
@@ -37,10 +39,14 @@ Power BI is a powerful tool for **data visualization and transformation**. The c
   - Remove duplicates from the entire dataset → Select table → Remove duplicates.  
   - Remove duplicates from a single column → *Keep rows → Keep duplicate*.  
 
-#### **Add & Move Columns**
+## **Add & Move Columns**
+
+#### **AddColumns Tab**
 - **Add Column:**  
   - *Index column* → Assigns index numbers.  
-  - Set starting number (e.g., 1, 5) and increment (e.g., 1, 2).  
+  - Set starting number (e.g., 1, 5) and increment (e.g., 1, 2).
+ 
+#### **Transform  Tab** 
 - **Move Column:**  
   - *Transform → Move → To Beginning* (or other positions).  
 
