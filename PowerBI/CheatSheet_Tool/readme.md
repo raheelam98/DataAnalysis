@@ -13,8 +13,12 @@ Power BI is a powerful tool for **data visualization and transformation**. The c
 
 ## **Power Query — View Options**
 
+**Handle Duplicates:**  
+  - Remove duplicates from the entire dataset → Select table icon (left bar) → Remove duplicates.  
+  - Remove duplicates from a single column → *Keep rows → Keep duplicate*.  
+
 #### **Missing Tabs on Dashboard**
-- Go to *View* → Select the missing options (e.g., Column quality, Column profile, Column distribution).  
+- Go to *View tab* → Select the missing options (e.g., Column quality, Column profile, Column distribution).  
 
 #### **Power Query — View Tab**
 - **Column Quality:** Shows data accuracy.  
@@ -40,9 +44,6 @@ Power BI is a powerful tool for **data visualization and transformation**. The c
 - **Remove Empty Rows:**  
   - Sort the column → Missing values appear at the top.  
   - *Remove Rows → Remove Blank Rows*.  
-- **Handle Duplicates:**  
-  - Remove duplicates from the entire dataset → Select table → Remove duplicates.  
-  - Remove duplicates from a single column → *Keep rows → Keep duplicate*.  
 
 #### **Power Query — AddColumns Tab**
 - **Add Column:**  
