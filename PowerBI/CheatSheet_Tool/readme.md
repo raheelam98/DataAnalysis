@@ -34,6 +34,8 @@
 
 ---
 
+### **Power BI - Power Query Editor**
+
 **Power BI - Power Query - Home**
 <div style="text-align: center;">
     <img alt="" src="./Tool_Images/1.1_PowerQuery_Home.jpeg" width="500px"></img>
