@@ -3,6 +3,7 @@
 
 Exploratory Data Analysis (EDA) is a critical first step in any data science project. It involves examining and summarizing data sets to understand their main characteristics, identify patterns, detect anomalies, and test hypotheses. EDA helps data scientists uncover hidden insights and make informed decisions about how to further analyze the data
 
+[Data Visualization for Exploratory Data Analysis (EDA) - Medium](https://medium.com/@gozdemadendere/data-visualization-for-exploratory-data-analysis-eda-ddf850539575)
 ---
 
 #### **EDA in Data Science**
