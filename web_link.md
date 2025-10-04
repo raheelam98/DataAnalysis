@@ -29,6 +29,9 @@
   
 - [Usama Shahid - linkedin](https://www.linkedin.com/in/usamashahid15/)
 
+- [Dania Amin Khan - linkedin](https://www.linkedin.com/in/dania-amin-khan-/)
+- daniaamin.khan@gmail.com
+
 ---
 
 - learning@atomcamp.com
