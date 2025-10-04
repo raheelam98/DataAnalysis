@@ -1,5 +1,7 @@
 ## Excel
 
+[Excel Hacks: Deleting Blank Rows Made Easy!#excel](https://www.youtube.com/shorts/N-ZMX79isJc)
+
 [What is Data Analysis? - datacamp](https://www.datacamp.com/blog/what-is-data-analysis-expert-guide?authuser=0)
 
 # Data Analysis: Excel Project
