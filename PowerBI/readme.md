@@ -1,5 +1,7 @@
 ## Power BI
 
+[Power BI Project End to End Dashboard Development | Beginners | Power BI Tutorial - Pivotalstats](https://www.youtube.com/watch?v=G8ikAJele_s)
+
 ### **Power BI - Tool**
 
 **Data**
