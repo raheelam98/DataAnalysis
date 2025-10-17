@@ -1,4 +1,4 @@
-## **Power BI - Tool Images - Cheat Sheet**
+## **Power BI - Tool Images - Cheat Sheet**  
 
 #### **Power BI Tool** Session 1
 
