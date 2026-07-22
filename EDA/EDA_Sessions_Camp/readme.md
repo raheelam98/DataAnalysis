@@ -32,7 +32,7 @@
 
 --- 
 
-### EDA Session 03
+### EDA Session 03 - Missing Values and Outliers
 
 [Outlier Detection and Treatment - Manual](https://docs.google.com/document/d/1JCHHlBiSLPiMyZ4-45UvNQS93lGphAKvIqHTJpRrF6A/edit?tab=t.0)
 
