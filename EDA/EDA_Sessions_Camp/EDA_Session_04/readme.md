@@ -1,4 +1,4 @@
-### EDA Session 04
+### EDA Session 04 - Data Inconsistencies Using FuzzyWuzzy
 
 ### 🔍 Handling Data Inconsistencies Using FuzzyWuzzy
 
