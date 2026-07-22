@@ -1,6 +1,6 @@
 ## EDA Sessions Camp 
 
-### EDA Session 01  - AI Adoption
+### EDA Session 01  - Pandas Data Analysis - Reading Files, Basic Analysis, GroupBy, and Binning - AI Adoption
 
 [Pandas Data Analysis - Reading Files, Basic Analysis, GroupBy, and Binning - Manual](https://docs.google.com/document/d/17NN5X31nj3Cxvm6lQgzZXYVJWdx1brwAXjVCHNUdsww/edit?tab=t.0#heading=h.c3mg2jdxfvc8)
 
